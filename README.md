@@ -50,7 +50,7 @@ Built a `cleaned_tickets` table in MySQL:
 ### Phase 4: Power BI dashboard
 Visualized SLA breach rate, resolution time by product line and region, agent performance, and monthly category trends. The SLA breach rate is calculated with a DAX measure.
 
-![Dashboard overview](images/dashboard.png)
+![Dashboard overview](images/Screenshot 2026-08-27 003337.png)
 
 ## Recommendations
 
@@ -71,7 +71,7 @@ Visualized SLA breach rate, resolution time by product line and region, agent pe
 ├── dashboard/
 │   └── cleaned_tickets.pbix         # Power BI dashboard
 ├── images/
-│   └── dashboard.png                # Dashboard screenshot
+│   └── Screenshot 2026-08-27 003337.png                # Dashboard screenshot
 └── README.md
 ```
 
