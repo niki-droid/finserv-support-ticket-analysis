@@ -51,7 +51,8 @@ Built a `cleaned_tickets` table in MySQL:
 Visualized SLA breach rate, resolution time by product line and region, agent performance, and monthly category trends. The SLA breach rate is calculated with a DAX measure.
 
 
-![Dashboard overview](images/dashboard.png)
+<img width="1163" height="654" alt="Dashboard" src="https://github.com/user-attachments/assets/9f85ffe5-08f8-4b3a-880c-7b1e8035e9d5" />
+
 
 ## Recommendations
 
