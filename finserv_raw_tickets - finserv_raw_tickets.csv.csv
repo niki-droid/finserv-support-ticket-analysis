@@ -1,0 +1,1001 @@
+ticket_id,created_at,resolved_at,agent_id,agent_name,region,product_line,category,status,priority,first_response_hours,resolution_hours,csat_score
+TKT90396,2024-04-30 18:22:00,2024-05-04 16:41:12,AGT007,Neha Bose,East,PersonalLoan,Claim Request,Escalated,Medium,11.88,94.32,2
+TKT29163,16/02/2024 08:24,17/02/2024 07:33,AGT007,Neha Bose,South,Credit Card,Policy Renewal,RESOLVED,High,10.07,23.15,
+TKT57069,2024-09-05 13:58:00,2024-10-08 20:31:36,AGT008,Vikram Nair,North,Personal Loan,CLAIM REQUEST,open,High,13.79,798.56,5
+TKT10317,08/01/2024 8:15,09/01/2024 20:40,AGT007,Neha Bose,East,PersonalLoan,Account access,CLOSED,Medium,17.1,36.43,4
+TKT49258,2024-04-13 15:40:00,2024-04-14 20:25:36,AGT006,Arjun Singh,East,Personal Loan,Policy Renewal,Resolved,High,20.41,28.76,
+TKT52601,10-18-2024 18:30,10-24-2024 14:18,AGT010,Amit Joshi,South,Personal Loan,Fraud Alert,CLOSED,Low,16.58,139.8,2
+TKT87014,05/08/2024 19:16,06/08/2024 11:13,AGT005,,South,INSURANCE,kyc update,Resolveddd,Medium,11.24,15.95,3
+TKT11340,2024-03-28 17:02:00,2024-03-30 13:43:24,AGT002,Rahul Verma,North,Insurance,kyc update,Resolved,High,4.4,44.69,1
+TKT83890,17/02/2024 12:00,,AGT008,Vikram Nair,SOUTH,INSURANCE,Payment Failure,escalated,Low,23.54,,1
+TKT90931,11-16-2024 15:40,11-19-2024 11:05,AGT002,Rahul Verma,North,credit card,account access,Resolved,High,21.02,67.42,2
+TKT93050,05-22-2024 19:59,05-24-2024 15:43,AGT002,Rahul Verma,North,CreditCard,EMI Query,closed,Medium,21.12,43.74,3
+TKT67653,2024-04-10 9:39:00,2024-04-14 8:23:24,AGT005,Meena Pillai,South,CreditCard,fraud alert,Open,Low,9.52,94.74,1
+TKT22190,06-24-2024 9:35,06-25-2024 15:19,AGT007,Neha Bose,East,insurance,Claim request,open,Medium,22.39,29.74,4
+TKT94268,30/12/2024 09:27,31/12/2024 04:36,AGT010,Amit Joshi,South,credit card,Claim request,Closed,Low,7.54,19.16,2
+TKT46178,08-31-2024 9:15,09-01-2024 9:19,AGT001,Priya Sharma,North,Insurance,Billing Issue,closed,Medium,3.01,24.07,4
+TKT39387,09-19-2024 17:04,09-20-2024 17:26,AGT001,Priya Sharma,North,INSURANCE,fraud alert,Resolved,Medium,22.27,24.38,
+TKT97821,15/05/2024 11:15,16/05/2024 06:27,AGT006,Arjun Singh,East,Insurance,Payment Failure,Closed,Medium,16.79,19.2,1
+TKT11161,2024-12-28 19:33:00,2024-12-29 7:49:48,AGT009,Pooja Reddy,East,Credit Card,fraud alert,resolved,Medium,6.58,12.28,1
+TKT94331,09-10-2024 10:04,09-11-2024 19:20,AGT003,Anita Das,South,Insurance,Policy Renewal,Resolveddd,Medium,18.16,33.27,1
+TKT20505,10-11-2024 10:11,10-12-2024 6:31,AGT010,Amit Joshi,South,Insurance,PAYMENT FAILURE,closed,Low,,20.34,2
+TKT45747,17/08/2024 08:42,18/08/2024 15:01,AGT009,Pooja Reddy,East,CreditCard,policy renewal,escalated,High,21.38,30.33,2
+TKT66645,2024-06-19 13:07:00,2024-06-20 13:01:00,AGT003,Anita Das,South,PersonalLoan,fraud alert,open,Medium,7.74,23.9,
+TKT10441,12-19-2024 20:35,12-21-2024 10:03,AGT003,Anita Das,South,PERSONAL LOAN,KYC update,CLOSED,High,10.36,37.47,5
+TKT32806,08-03-2024 9:03,08-05-2024 0:41,AGT007,Neha Bose,East,Insurance,PAYMENT FAILURE,Resolveddd,Medium,14.88,39.64,2
+TKT97771,28/01/2024 09:57,29/01/2024 17:07,1001,Meena Pillai,South,PersonalLoan,,Escalated,Low,21.69,31.18,3
+TKT64474,08-05-2024 19:57,08-06-2024 18:01,AGT008,Vikram Nair,North,Personal Loan,Policy Renewal,Resolveddd,Low,10.23,22.08,4
+TKT79813,06-06-2024 10:41,06-07-2024 22:58,AGT003,Anita Das,South,INSURANCE,Account Access,RESOLVED,Medium,20.85,36.29,5
+TKT80564,05-17-2024 20:17,05-24-2024 19:04,AGT004,Suresh Kumar,South,PERSONAL LOAN,Payment Failure,resolved,High,2.63,166.79,
+TKT94540,21/11/2024 20:00,,AGT001,Priya Sharma,North,credit card,EMI query,escalated,Low,18.29,,
+TKT87781,14/09/2024 10:29,15/09/2024 22:43,AGT001,,North,Insurance,Claim request,CLOSED,High,6.96,36.24,2
+TKT49491,2024-09-12 10:20:00,2024-09-13 13:05:36,AGT008,Vikram Nair,North,personal loan,fraud alert,Resolved,Medium,19.36,26.76,1
+TKT78656,03-15-2024 18:59,03-21-2024 4:27,AGT003,Anita Das,South,credit card,EMI Query,RESOLVED,Medium,13.77,129.48,2
+TKT89244,2024-12-16 19:29:00,2024-12-23 7:50:36,AGT004,Suresh Kumar,South,CreditCard,Account Access,resolved,Low,16.47,156.36,1
+TKT80172,2024-10-10 11:51:00,2024-10-11 15:26:24,AGT005,Meena Pillai,Sth,insurance,Billing Issue,RESOLVED,Low,16.55,27.59,2
+TKT30532,23/12/2024 14:12,25/12/2024 11:31,AGT008,Vikram Nair,North,Personal Loan,EMI Query,closed,Low,18.01,45.33,2
+TKT25184,03-16-2024 12:08,03-17-2024 7:31,AGT009,Pooja Reddy,South,INSURANCE,Billing issue,OPEN,High,18.05,19.39,5
+TKT15693,2024-09-03 20:49:00,,AGT009,Pooja Reddy,East,,KYC Update,Open,Medium,9.46,,5
+TKT90980,03/12/2024 15:01,08/12/2024 23:57,AGT010,Amit Joshi,South,INSURANCE,Billing Issue,closed,High,0.66,128.94,1
+TKT89193,2024-01-02 8:41:00,2024-01-03 3:38:36,AGT008,Vikram Nair,North,PersonalLoan,KYC Update,Resolved,Low,1.01,18.96,2
+TKT65304,07-24-2024 13:10,,AGT009,Pooja Reddy,East,Insurance,Claim request,escalated,High,58.21,,3
+TKT10191,06-06-2024 9:13,06-08-2024 8:07,AGT007,Neha Bose,East,Personal Loan,billing issue,CLOSED,Medium,12.95,46.9,4
+TKT66731,07-01-2024 10:22,07-05-2024 23:43,AGT005,Meena Pillai,South,PERSONAL LOAN,Account Access,Resolved,Medium,6.53,109.35,3
+TKT32650,05/04/2024 12:17,06/04/2024 22:56,AGT006,Arjun Singh,East,Personal Loan,Claim Request,RESOLVED,Medium,10.98,34.65,4
+TKT63564,12/12/2024 20:06,20/01/2025 01:45,AGT010,Amit Joshi,South,Credit Card,EMI query,Escalated,Low,1.32,917.65,4
+TKT54222,10-19-2024 14:54,10-21-2024 5:30,AGT007,Neha Bose,East,Personal Loan,policy renewal,CLOSED,Low,,38.61,1
+TKT14379,09-03-2024 20:09,09-04-2024 18:35,AGT001,Priya Sharma,North,Insurance,KYC Update,resolved,Low,14.35,22.44,2
+TKT95105,2024-11-24 17:58:00,2024-11-26 14:22:00,AGT003,Anita Das,South,PERSONAL LOAN,,Escalated,Low,15.1,44.4,5
+TKT39933,07-24-2024 8:09,07-25-2024 6:48,AGT006,,East,INSURANCE,Fraud Alert,escalated,Low,3.83,22.66,1
+TKT80972,2024-09-06 13:09:00,2024-09-07 4:00:36,AGT005,Meena Pillai,South,insurance,Policy Renewal,RESOLVED,Low,1.49,14.86,2
+TKT10569,2024-03-18 8:52:00,2024-03-20 13:16:00,AGT002,Rahul Verma,NORTH,PERSONAL LOAN,Fraud Alert,Open,Medium,111.94,52.4,4
+TKT85583,27/12/2024 17:07,29/12/2024 04:05,AGT003,Anita Das,South,Credit Card,KYC Update,closed,Low,16.04,34.97,1
+TKT52844,22/09/2024 11:08,24/09/2024 01:27,AGT003,Anita Das,South,Insurance,Fraud Alert,Resolved,Medium,4.01,38.32,4
+TKT35153,03-21-2024 17:42,03-23-2024 7:52,AGT007,Neha Bose,East,personal loan,KYC Update,escalated,High,4.19,38.17,1
+TKT23106,2024-06-20 15:31:00,2024-06-21 20:34:00,AGT005,Meena Pillai,South,PERSONAL LOAN,EMI Query,Closed,,17.77,29.05,
+TKT20348,18/01/2024 16:36,19/01/2024 18:11,AGT007,Neha Bose,East,credit card,Fraud Alert,Open,Medium,21.66,25.59,1
+TKT27342,07/11/2024 20:19,09/11/2024 15:02,AGT003,Anita Das,south,personal loan,CLAIM REQUEST,Closed,High,17.25,42.73,1
+TKT41276,2024-06-19 15:09:00,2024-07-30 18:20:24,AGT003,Anita Das,NORTH,Credit Card,,Resolveddd,,23.11,987.19,2
+TKT57139,26/08/2024 09:51,27/08/2024 18:43,AGT009,Pooja Reddy,East,Credit Card,Fraud Alert,Open,Medium,23.56,32.88,2
+TKT98358,2024-09-17 8:02:00,2024-09-19 11:23:36,AGT002,Rahul Verma,North,Insurance,fraud alert,Open,Low,51.31,51.36,5
+TKT73463,2024-03-05 9:20:00,2024-03-07 0:05:36,AGT007,Neha Bose,East,Personal Loan,Claim Request,resolved,Low,1.99,38.76,
+TKT40160,24/03/2024 14:17,02/05/2024 17:06,AGT004,Suresh Kumar,South,CreditCard,BILLING ISSUE,Open,High,5.98,938.82,5
+TKT41195,19/04/2024 16:08,21/04/2024 00:06,AGT005,Meena Pillai,South,Credit Card,Account Access,escalated,Medium,17.5,31.98,1
+TKT98057,24/09/2024 14:37,26/09/2024 07:02,AGT001,Priya Sharma,North,CREDIT CARD,Billing Issue,Open,High,16.47,40.43,1
+TKT58655,03/06/2024 15:11,11/06/2024 3:34,AGT010,Amit Joshi,South,credit card,EMI Query,RESOLVED,High,3.15,180.39,2
+TKT61248,2024-11-20 10:19:00,2024-11-21 14:46:36,AGT009,Pooja Reddy,East,insurance,Account Access,Resolved,Low,16.42,28.46,5
+TKT68360,2024-03-08 20:19:00,2024-03-10 9:46:00,AGT008,Vikram Nair,North,CREDIT CARD,KYC Update,open,Low,4.54,37.45,1
+TKT94886,30/06/2024 09:09,03/07/2024 15:23,AGT006,Arjun Singh,East,Credit Card,Account access,Escalated,High,118.82,78.24,2
+TKT63234,17/12/2024 13:09,23/12/2024 23:45,AGT003,Anita Das,South,credit card,,closed,,3.4,154.61,4
+TKT57681,02/01/2024 13:22,06/01/2024 7:33,AGT001,Priya Sharma,North,PERSONAL LOAN,Fraud Alert,Open,Medium,19.88,90.19,1
+TKT41933,06-23-2024 10:02,07-01-2024 12:33,AGT006,Arjun Singh,East,Insurance,BILLING ISSUE,Closed,High,8.99,194.53,3
+TKT82944,05-03-2024 8:08,05-05-2024 12:17,AGT001,Priya Sharma,North,personal loan,KYC Update,Escalated,Low,53.24,52.16,2
+TKT94815,12/08/2024 15:52,14/08/2024 08:17,AGT009,Pooja Reddy,East,Personal Loan,Claim Request,Resolved,High,17.56,40.42,2
+TKT13511,21/10/2024 19:40,23/10/2024 17:49,AGT010,Amit Joshi,South,insurance,Fraud Alert,open,Low,20.61,46.15,3
+TKT53583,30/03/2024 20:43,31/03/2024 11:19,AGT003,Anita Das,South,CREDIT CARD,Fraud Alert,Open,Medium,11.42,14.6,3
+TKT54663,06-14-2024 8:01,06-17-2024 1:46,AGT003,Anita Das,South,Personal Loan,EMI Query,Closed,Medium,3.97,65.75,2
+TKT85149,11-17-2024 19:49,11-21-2024 0:06,AGT009,Pooja Reddy,East,Personal Loan,KYC Update,Resolveddd,Medium,10.65,76.29,3
+TKT56779,2024-03-25 8:47:00,2024-03-29 3:20:36,AGT008,Vikram Nair,North,credit card,billing issue,open,High,2.79,90.56,2
+TKT70604,2024-10-30 13:43:00,2024-11-01 12:10:36,AGT002,Rahul Verma,North,INSURANCE,EMI Query,Escalated,Low,0.85,46.46,2
+TKT31049,2024-10-07 18:20:00,2024-10-09 3:17:00,AGT004,Suresh Kumar,South,PERSONAL LOAN,fraud alert,Escalated,Low,17.91,32.95,4
+TKT48671,22/04/2024 10:30,23/04/2024 14:36,AGT006,Arjun Singh,East,insurance,Fraud Alert,Resolved,Medium,4.1,28.11,5
+TKT32114,04-11-2024 13:12,04-18-2024 20:45,AGT002,Rahul Verma,North,PERSONAL LOAN,KYC Update,escalated,Low,14.48,175.55,4
+TKT31212,11-11-2024 10:42,11-16-2024 7:49,AGT007,Neha Bose,East,Insurance,Payment Failure,closed,High,18.79,117.12,2
+TKT48603,11-25-2024 9:50,11-29-2024 17:14,AGT009,Pooja Reddy,East,CREDIT CARD,Fraud Alert,escalated,Medium,7,103.4,5
+TKT54572,2024-05-28 18:12:00,2024-06-04 4:16:48,AGT002,,North,INSURANCE,,closed,High,75.66,154.08,4
+TKT20752,30/12/2024 20:40,,AGT005,Meena Pillai,South,PERSONAL LOAN,account access,resolved,Medium,4.13,,3
+TKT58394,01-01-2024 19:35,01-02-2024 22:32,AGT009,Pooja Reddy,East,Insurance,EMI Query,Closed,Medium,19.79,26.96,4
+TKT79327,03-01-2024 13:37,03-02-2024 9:17,AGT005,Meena Pillai,east,Credit Card,EMI Query,Closed,High,7.56,19.68,5
+TKT36493,11/09/2024 11:08,13/09/2024 17:52,AGT002,Rahul Verma,North,Credit Card,account access,CLOSED,Medium,82.48,54.74,3
+TKT58621,17/05/2024 19:05,18/05/2024 17:59,AGT004,Suresh Kumar,South,INSURANCE,Billing Issue,Open,Low,16.54,22.91,5
+TKT96163,10/06/2024 12:13,12/06/2024 0:40,AGT010,Amit Joshi,South,Personal Loan,BILLING ISSUE,Resolved,Low,16.24,36.45,5
+TKT80136,2024-09-01 12:00:00,2024-09-02 22:34:48,AGT001,Priya Sharma,North,Personal Loan,policy renewal,open,Low,18.5,34.58,5
+TKT91495,2024-12-04 12:23:00,2024-12-06 9:16:24,AGT001,Priya Sharma,North,insurance,Account Access,closed,Medium,21.23,44.89,5
+TKT32079,01-06-2024 18:17,01-09-2024 0:29,AGT002,Rahul Verma,North,insurance,Claim Request,Resolveddd,,4.11,54.2,2
+TKT42077,10/07/2024 8:30,10/07/2024 22:36,AGT003,Anita Das,South,Insurance,Claim request,Resolveddd,High,4.24,14.11,5
+TKT54974,05-01-2024 11:05,05-03-2024 3:32,AGT007,Neha Bose,East,Credit Card,Fraud Alert,Resolved,High,14.33,40.45,
+TKT87424,2024-06-03 20:34:00,2024-06-05 21:00:24,AGT003,Anita Das,South,Credit Card,policy renewal,RESOLVED,Low,83.48,48.44,
+TKT94341,2024-04-05 10:23:00,2024-04-06 12:23:00,AGT005,Meena Pillai,South,PersonalLoan,Claim request,Open,High,14.65,26,
+TKT65177,03/04/2024 19:12,,AGT003,Anita Das,Est,credit card,kyc update,Open,Medium,98.13,,3
+TKT34696,2024-09-26 16:45:00,2024-10-01 15:16:48,AGT009,Pooja Reddy,East,credit card,BILLING ISSUE,escalated,Low,13.45,118.53,1
+TKT47243,24/02/2024 10:27,25/02/2024 14:18,AGT006,Arjun Singh,East,Insurance,fraud alert,closed,Medium,15.81,27.85,
+TKT74858,18/08/2024 10:59,25/08/2024 17:17,AGT008,Vikram Nair,North,insurance,,Closed,Medium,21.02,174.31,4
+TKT89876,04-09-2024 8:07,04-16-2024 17:10,AGT004,Suresh Kumar,South,PersonalLoan,Billing issue,Escalated,Low,1.06,177.06,1
+TKT16345,13/08/2024 15:00,15/08/2024 11:22,AGT003,Anita Das,NORTH,CREDIT CARD,Account access,Escalated,Medium,23.81,44.38,1
+TKT53713,2024-10-16 11:04:00,2024-10-17 14:07:36,AGT004,Suresh Kumar,South,Insurance,KYC update,OPEN,High,20,27.06,
+TKT41117,2024-11-23 17:44:00,2024-11-24 14:32:36,AGT006,Arjun Singh,East,Personal Loan,Payment Failure,Escalated,Medium,0.95,20.81,5
+TKT13235,23/09/2024 13:01,24/09/2024 12:28,AGT009,,East,Credit Card,Account Access,Closed,Low,11.04,23.46,4
+TKT25864,23/02/2024 15:01,26/02/2024 10:24,AGT009,Pooja Reddy,South,personal loan,Fraud Alert,Escalated,Low,,67.39,2
+TKT52287,2024-11-11 18:19:00,2024-11-12 18:08:48,AGT010,Amit Joshi,Sth,Credit Card,account access,Closed,High,12.03,23.83,4
+TKT52157,05-23-2024 17:06,05-24-2024 8:40,AGT004,Suresh Kumar,South,Credit Card,PAYMENT FAILURE,Escalated,Medium,10.63,15.57,
+TKT50404,29/10/2024 18:49,31/10/2024 01:11,AGT010,,east,credit card,KYC Update,Closed,High,23.95,30.38,4
+TKT52343,09-10-2024 14:30,09-12-2024 7:43,AGT003,Anita Das,South,CreditCard,Policy Renewal,Closed,Low,16.8,41.22,2
+TKT81791,2024-01-15 20:03:00,2024-01-16 12:42:36,AGT006,Arjun Singh,East,INSURANCE,EMI Query,Resolved,High,15.57,16.66,3
+TKT13145,2024-03-16 13:41:00,2024-03-18 1:38:00,AGT004,Suresh Kumar,South,personal loan,account access,RESOLVED,Medium,7.24,35.95,4
+TKT83659,2024-04-24 18:37:00,2024-04-25 19:56:12,AGT010,Amit Joshi,South,Insurance,billing issue,Escalated,High,19.64,25.32,1
+TKT27027,2024-11-27 17:51:00,2024-11-29 4:42:36,AGT007,Neha Bose,East,Insurance,KYC Update,escalated,High,23.23,34.86,2
+TKT31153,11-07-2024 12:16,11-09-2024 1:41,AGT009,Pooja Reddy,north,insurance,PAYMENT FAILURE,Closed,Medium,23.93,37.42,4
+TKT53620,11-03-2024 9:41,11-04-2024 19:44,AGT004,Suresh Kumar,South,personal loan,fraud alert,RESOLVED,High,8.57,34.05,
+TKT54843,09/10/2024 11:31,11/10/2024 2:57,AGT003,Anita Das,South,Insurance,billing issue,resolved,High,7.12,39.44,3
+TKT87554,2024-05-11 9:52:00,2024-05-12 1:17:48,AGT005,Meena Pillai,South,Credit Card,EMI query,Closed,Low,3.98,15.43,1
+TKT92660,2024-06-04 20:52:00,2024-06-06 7:50:48,AGT003,Anita Das,South,PersonalLoan,Account Access,open,Medium,7.22,34.98,3
+TKT22144,2024-12-20 18:56:00,2024-12-24 2:05:00,AGT009,Pooja Reddy,East,PersonalLoan,Account Access,Escalated,Medium,23.51,79.15,
+TKT46899,2024-01-26 14:36:00,2024-01-28 16:10:48,AGT005,Meena Pillai,South,Personal Loan,Claim request,Resolved,High,13.42,49.58,3
+TKT36738,02-22-2024 17:55,02-23-2024 22:48,AGT009,Pooja Reddy,east,INSURANCE,BILLING ISSUE,Closed,,16.37,28.89,2
+TKT16618,2024-09-25 14:11:00,2024-10-25 2:39:48,AGT005,Meena Pillai,South,Personal Loan,Policy Renewal,OPEN,Medium,4.4,708.48,5
+TKT26673,2024-02-26 15:29:00,2024-03-01 13:03:12,AGT001,Priya Sharma,NORTH,insurance,Fraud Alert,Closed,High,10.33,93.57,5
+TKT25391,09-25-2024 16:50,09-25-2024 20:53,AGT007,Neha Bose,East,credit card,policy renewal,resolved,Medium,1.01,4.05,2
+TKT86758,21/03/2024 17:34,23/03/2024 11:40,AGT006,Arjun Singh,East,PERSONAL LOAN,KYC update,resolved,Medium,16.02,42.1,
+TKT80455,2024-10-11 15:02:00,2024-10-13 12:45:48,AGT007,Neha Bose,East,CreditCard,kyc update,CLOSED,Low,0.52,45.73,
+TKT76316,10/01/2024 17:54,12/01/2024 15:41,AGT007,Neha Bose,East,Credit Card,Claim request,escalated,Medium,9.06,45.79,2
+TKT71797,2024-06-16 17:14:00,2024-06-18 5:36:48,AGT001,Priya Sharma,North,Credit Card,Billing issue,Closed,High,15.72,36.38,5
+TKT72952,2024-11-24 20:18:00,2024-11-27 12:45:36,AGT003,Anita Das,South,personal loan,account access,CLOSED,Medium,65.85,64.46,1
+TKT72970,02-16-2024 18:41,02-17-2024 18:41,AGT010,Amit Joshi,EAST,insurance,kyc update,Open,High,8.03,24,4
+TKT47712,2024-05-21 15:19:00,2024-05-24 21:59:48,AGT006,Arjun Singh,East,Insurance,PAYMENT FAILURE,escalated,Medium,5.19,78.68,2
+TKT74763,08/02/2024 19:46,09/02/2024 12:24,AGT003,Anita Das,South,Credit Card,Payment Failure,escalated,Low,2.88,16.64,2
+TKT30253,2024-09-07 17:26:00,2024-09-09 3:25:24,AGT007,Neha Bose,East,Personal Loan,EMI Query,Escalated,Medium,22.57,33.99,1
+TKT57986,2024-08-02 15:46:00,2024-08-04 10:58:00,AGT010,,South,Credit Card,KYC update,RESOLVED,High,20.38,43.2,4
+TKT62963,12/03/2024 15:49,18/03/2024 20:47,AGT001,Priya Sharma,North,PERSONAL LOAN,Billing issue,Closed,Medium,6.94,148.97,
+TKT27499,10-30-2024 13:51,10-31-2024 12:38,AGT005,Meena Pillai,South,Credit Card,Billing Issue,Open,Medium,7.12,22.79,
+TKT45720,05-31-2024 19:55,06-02-2024 17:39,AGT003,Anita Das,South,Insurance,EMI Query,Closed,Medium,8.46,45.74,1
+TKT28665,06/01/2024 18:07,07/01/2024 15:34,AGT005,Meena Pillai,South,Personal Loan,,RESOLVED,Medium,12.73,21.45,4
+TKT14911,18/08/2024 17:28,24/08/2024 18:55,AGT010,Amit Joshi,South,INSURANCE,EMI query,escalated,Medium,13.14,145.46,4
+TKT66747,12-02-2024 15:42,12-10-2024 20:25,AGT006,Arjun Singh,Est,Credit Card,,closed,Medium,2.39,196.72,4
+TKT41127,16/01/2024 18:57,18/01/2024 01:10,AGT006,Arjun Singh,south,Insurance,Billing Issue,OPEN,Low,20.89,30.22,4
+TKT82844,2024-11-09 17:04:00,2024-11-16 22:15:24,AGT005,Meena Pillai,South,personal loan,policy renewal,open,Medium,1.89,173.19,2
+TKT11047,12/02/2024 12:54,15/02/2024 23:29,AGT008,Vikram Nair,North,Insurance,PAYMENT FAILURE,Resolved,,23.97,82.59,1
+TKT73525,05/04/2024 11:32,07/04/2024 8:45,AGT010,Amit Joshi,South,PersonalLoan,Policy Renewal,Open,Medium,23.22,45.23,
+TKT14137,20/05/2024 08:50,27/05/2024 03:56,AGT004,Suresh Kumar,South,Insurance,PAYMENT FAILURE,Resolved,Low,13.83,163.1,
+TKT39182,2024-05-23 12:02:00,2024-05-23 23:45:48,AGT009,Pooja Reddy,East,PersonalLoan,Billing Issue,open,Low,7.81,11.73,5
+TKT97027,30/08/2024 18:23,31/08/2024 18:07,AGT007,Neha Bose,East,Insurance,Payment Failure,Escalated,Medium,9.57,23.74,5
+TKT89777,19/12/2024 11:03,26/01/2025 07:44,AGT007,Neha Bose,SOUTH,PERSONAL LOAN,Claim Request,open,Medium,18.03,908.69,2
+TKT62297,2024-03-11 10:48:00,2024-03-12 22:36:00,AGT005,Meena Pillai,South,Insurance,,Resolved,High,3.33,35.8,2
+TKT28083,2024-11-04 10:50:00,2024-11-04 20:24:48,AGT008,Vikram Nair,North,Insurance,Payment Failure,Escalated,High,2.25,9.58,3
+TKT20069,11-17-2024 10:48,11-19-2024 2:18,AGT009,Pooja Reddy,East,PERSONAL LOAN,EMI Query,Escalated,High,2.72,39.5,5
+TKT73035,21/07/2024 18:36,,AGT009,Pooja Reddy,East,Personal Loan,Account Access,Closed,Medium,5.11,,4
+TKT45744,31/03/2024 18:54,02/04/2024 13:17,AGT003,Anita Das,South,INSURANCE,Account Access,Escalated,Low,1.49,42.39,1
+TKT16608,2024-02-26 9:50:00,2024-02-27 2:59:36,AGT008,Vikram Nair,North,Credit Card,fraud alert,OPEN,Low,14.85,17.16,
+TKT23446,2024-05-25 9:48:00,2024-05-25 18:54:00,AGT009,Pooja Reddy,East,PERSONAL LOAN,BILLING ISSUE,Resolveddd,Low,4.27,9.1,3
+TKT42654,2024-04-04 9:59:00,2024-04-06 3:26:00,AGT007,Neha Bose,East,Insurance,Claim request,CLOSED,Low,20.92,41.45,2
+TKT45808,2024-07-28 20:16:00,2024-07-29 20:37:36,AGT008,Vikram Nair,North,credit card,KYC update,CLOSED,High,20.54,24.36,2
+TKT43478,2024-07-24 12:29:00,2024-07-25 15:07:24,AGT010,Amit Joshi,South,INSURANCE,Policy Renewal,CLOSED,Low,18.07,26.64,4
+TKT35630,01-04-2024 14:21,01-05-2024 22:42,AGT008,Vikram Nair,south,insurance,kyc update,Open,Medium,20.28,32.36,3
+TKT66372,14/05/2024 17:53,15/05/2024 21:59,AGT005,Meena Pillai,South,Credit Card,,open,High,18.4,28.11,1
+TKT20282,2024-09-23 11:19:00,2024-09-24 10:13:36,AGT004,Suresh Kumar,South,Insurance,Claim Request,Resolveddd,High,17.93,22.91,1
+TKT64055,2024-07-10 8:20:00,2024-07-17 6:22:24,AGT007,,East,Personal Loan,PAYMENT FAILURE,closed,High,11.95,166.04,4
+TKT11554,17/08/2024 14:43,18/08/2024 19:52,AGT005,Meena Pillai,South,Personal Loan,kyc update,escalated,High,7.92,29.15,5
+TKT70735,07-28-2024 13:41,07-29-2024 15:42,AGT009,Pooja Reddy,East,Personal Loan,Fraud Alert,Escalated,High,,26.03,2
+TKT41135,03-08-2024 15:23,03-09-2024 12:40,AGT002,Rahul Verma,North,PERSONAL LOAN,Billing issue,Escalated,High,18.53,21.29,1
+TKT74295,08-02-2024 19:20,08-03-2024 21:35,AGT002,Rahul Verma,North,Credit Card,policy renewal,Escalated,Medium,23.2,26.26,1
+TKT35487,05-30-2024 20:09,05-31-2024 17:22,AGT003,Anita Das,South,Insurance,Claim request,Closed,,18.74,21.23,2
+TKT53719,14/08/2024 16:45,16/08/2024 19:07,AGT003,Anita Das,South,insurance,Policy Renewal,RESOLVED,Medium,53.42,50.37,
+TKT26688,2024-09-17 14:41:00,2024-09-19 1:06:12,AGT008,Vikram Nair,North,Personal Loan,BILLING ISSUE,Resolved,High,20.99,34.42,3
+TKT81658,23/07/2024 16:44,24/07/2024 14:44,AGT001,Priya Sharma,North,Credit Card,Claim Request,Closed,Low,12.29,22.01,2
+TKT23909,2024-03-13 9:13:00,2024-03-19 4:34:36,AGT004,Suresh Kumar,South,insurance,BILLING ISSUE,RESOLVED,High,13.48,139.36,1
+TKT51853,06-16-2024 16:44,06-17-2024 17:23,AGT009,Pooja Reddy,East,Insurance,fraud alert,escalated,High,5.69,24.65,2
+TKT72282,10-29-2024 12:04,11-19-2024 9:59,AGT003,Anita Das,South,PERSONAL LOAN,CLAIM REQUEST,Escalated,Low,18.47,501.92,3
+TKT22752,2024-10-29 9:52:00,2024-10-30 8:14:12,AGT008,Vikram Nair,North,PERSONAL LOAN,policy renewal,Resolved,Low,19.71,22.37,
+TKT12787,01-03-2024 15:18,01-09-2024 0:51,AGT005,Meena Pillai,Nrth,CREDIT CARD,Billing Issue,Closed,Medium,3.58,129.55,4
+TKT27263,2024-12-04 10:37:00,2024-12-05 23:14:12,AGT006,Arjun Singh,East,Credit Card,Payment Failure,open,Medium,17.81,36.62,4
+TKT83699,2024-12-07 19:26:00,2024-12-09 1:18:12,AGT008,,North,Insurance,BILLING ISSUE,Open,Low,16.34,29.87,
+TKT46046,10-07-2024 19:20,10-08-2024 21:30,AGT010,Amit Joshi,South,Credit Card,fraud alert,closed,Medium,9.45,26.17,2
+TKT74302,26/10/2024 12:31,28/10/2024 13:53,AGT001,Priya Sharma,North,PersonalLoan,Account access,closed,,13.64,49.37,3
+TKT42394,2024-06-23 8:52:00,2024-06-24 17:32:12,AGT002,Rahul Verma,North,Insurance,Account Access,Resolved,Medium,8.34,32.67,4
+TKT56351,06/11/2024 20:24,08/11/2024 0:57,AGT001,Priya Sharma,north,insurance,EMI Query,OPEN,Low,23.11,28.56,1
+TKT53684,18/10/2024 17:01,20/10/2024 02:29,AGT006,Arjun Singh,East,credit card,Claim request,CLOSED,Medium,20.05,33.48,5
+TKT26706,03-20-2024 8:16,03-21-2024 19:35,AGT004,Suresh Kumar,South,Insurance,Account Access,Escalated,Low,2.58,35.33,1
+TKT59840,07-25-2024 9:48,08-02-2024 1:20,AGT010,Amit Joshi,Nrth,INSURANCE,Payment Failure,Open,Low,15.73,183.54,5
+TKT77760,06-16-2024 17:11,06-18-2024 7:00,AGT002,Rahul Verma,North,insurance,Policy Renewal,CLOSED,Low,22.1,37.83,1
+TKT73532,2024-11-07 20:15:00,2024-11-12 10:51:36,AGT002,Rahul Verma,Sth,CreditCard,account access,CLOSED,Low,17.18,110.61,5
+TKT52539,2024-12-24 12:46:00,2024-12-28 1:02:12,AGT002,Rahul Verma,Sth,CreditCard,Policy Renewal,resolved,Medium,1.15,84.27,4
+TKT75701,2024-03-06 19:46:00,2024-04-09 5:02:12,AGT005,Meena Pillai,South,Personal Loan,Payment Failure,resolved,Low,11.8,801.27,
+TKT60432,08-27-2024 16:16,09-03-2024 6:05,AGT007,Neha Bose,East,INSURANCE,EMI Query,escalated,High,23.32,157.83,3
+TKT51500,13/05/2024 13:11,14/05/2024 01:31,AGT010,Amit Joshi,South,insurance,KYC Update,Resolveddd,Medium,5.32,12.34,3
+TKT98652,08/11/2024 12:48,10/11/2024 6:27,AGT004,Suresh Kumar,South,CREDIT CARD,Claim Request,escalated,Low,18.09,41.66,3
+TKT81834,09-30-2024 20:41,10-06-2024 18:41,AGT010,Amit Joshi,South,personal loan,KYC Update,Resolved,High,2.25,142,5
+TKT52725,2024-12-12 13:14:00,2024-12-19 5:38:00,AGT007,Neha Bose,East,personal loan,Account Access,Closed,Medium,18.81,160.4,3
+TKT67554,04/01/2024 11:53,05/01/2024 18:15,AGT007,Neha Bose,East,personal loan,Payment Failure,open,Medium,19.51,30.38,
+TKT95626,2024-12-07 17:53:00,2024-12-10 11:19:24,AGT006,Arjun Singh,North,CREDIT CARD,Payment Failure,Escalated,High,14.68,65.44,
+TKT99016,27/08/2024 10:39,28/08/2024 03:28,AGT007,Neha Bose,East,CreditCard,Payment Failure,escalated,Medium,13.05,16.82,1
+TKT24617,09/04/2024 17:51,10/04/2024 22:43,AGT008,Vikram Nair,North,personal loan,EMI Query,CLOSED,Low,15.42,28.87,2
+TKT52488,06-27-2024 12:12,06-28-2024 20:09,AGT004,Suresh Kumar,South,Credit Card,PAYMENT FAILURE,OPEN,Low,19.9,31.96,2
+TKT50144,2024-01-12 15:51:00,2024-01-13 22:31:48,AGT003,Anita Das,South,PERSONAL LOAN,EMI query,CLOSED,High,14.99,30.68,5
+TKT24404,08-02-2024 10:26,08-04-2024 5:42,AGT004,Suresh Kumar,SOUTH,Insurance,Payment failure,Escalated,Medium,16.73,43.28,3
+TKT84778,25/11/2024 17:10,26/11/2024 13:37,AGT002,Rahul Verma,NORTH,CreditCard,KYC update,Resolved,High,18.81,20.46,1
+TKT28965,2024-07-08 16:16:00,2024-07-10 7:50:12,AGT002,Rahul Verma,North,Credit Card,account access,escalated,High,16.71,39.57,4
+TKT89070,2024-01-13 16:53:00,2024-01-14 11:50:00,AGT008,Vikram Nair,North,INSURANCE,Account Access,Resolveddd,Medium,4.92,18.95,4
+TKT16787,01-10-2024 18:07,01-11-2024 9:07,AGT009,Pooja Reddy,East,CreditCard,EMI Query,Resolved,High,12.97,15,3
+TKT17184,12-11-2024 13:56,12-12-2024 8:52,AGT009,Pooja Reddy,East,Insurance,Fraud Alert,Escalated,Low,1.71,18.94,2
+TKT93055,07-10-2024 19:06,07-17-2024 8:21,AGT005,Meena Pillai,South,Personal Loan,KYC update,Open,Medium,1.58,157.25,5
+TKT50312,06-10-2024 17:57,06-11-2024 17:33,AGT002,Rahul Verma,North,credit card,Payment Failure,Resolved,Low,19.96,23.6,1
+TKT12054,22/01/2024 08:50,25/01/2024 06:23,AGT007,Neha Bose,East,CreditCard,Policy Renewal,Escalated,Low,22.88,69.55,4
+TKT11599,2024-10-23 9:00:00,2024-10-26 18:23:24,AGT004,Suresh Kumar,South,INSURANCE,Account Access,Escalated,Low,7.02,81.39,3
+TKT90179,24/05/2024 14:42,26/05/2024 10:12,AGT007,Neha Bose,East,insurance,kyc update,RESOLVED,Low,10.71,43.51,3
+TKT85279,03-31-2024 13:05,04-01-2024 14:12,AGT007,Neha Bose,East,insurance,Payment Failure,Resolved,Low,23.81,25.12,4
+TKT74451,01/12/2024 12:46,04/12/2024 10:02,AGT003,,South,Credit Card,Account Access,open,High,10.63,69.28,5
+TKT75640,18/12/2024 13:57,19/12/2024 02:47,AGT002,Rahul Verma,North,credit card,EMI query,Resolved,Medium,3.69,12.84,
+TKT38887,2024-11-04 13:41:00,2024-11-12 6:08:36,AGT006,Arjun Singh,East,Personal Loan,EMI query,resolved,,6.23,184.46,5
+TKT59131,28/09/2024 14:36,04/10/2024 11:37,AGT007,Neha Bose,East,insurance,Claim request,Open,,16.52,141.03,4
+TKT15624,2024-08-09 12:24:00,2024-08-11 7:12:36,AGT005,Meena Pillai,South,INSURANCE,account access,resolved,Low,22.33,42.81,3
+TKT36255,05/02/2024 9:35,07/02/2024 7:09,AGT009,Pooja Reddy,Est,Credit Card,fraud alert,Closed,Medium,7.19,45.58,3
+TKT84498,2024-12-15 10:48:00,2024-12-21 4:29:24,AGT007,Neha Bose,East,personal loan,Billing Issue,CLOSED,Low,11.57,137.69,1
+TKT26424,18/10/2024 12:19,19/10/2024 03:33,AGT004,Suresh Kumar,South,PersonalLoan,PAYMENT FAILURE,Escalated,,14.15,15.24,
+TKT56271,2024-11-22 11:40:00,2024-11-24 5:47:48,AGT010,Amit Joshi,South,Credit Card,Account access,closed,Medium,22.86,42.13,3
+TKT81956,05-23-2024 13:10,05-24-2024 2:43,AGT008,Vikram Nair,EAST,PERSONAL LOAN,KYC Update,Resolved,Medium,5.41,13.56,3
+TKT93026,27/11/2024 20:31,28/11/2024 23:40,AGT006,Arjun Singh,East,CREDIT CARD,,Resolveddd,Low,9.31,27.15,5
+TKT76162,07/10/2024 15:57,09/10/2024 8:15,AGT007,Neha Bose,East,Insurance,fraud alert,Closed,Low,4.24,40.31,2
+TKT76144,29/05/2024 10:16,01/06/2024 22:17,AGT004,Suresh Kumar,South,Insurance,Policy Renewal,Resolved,Low,10.05,84.03,5
+TKT10599,05-28-2024 11:10,05-29-2024 12:48,AGT009,,East,PERSONAL LOAN,,CLOSED,Low,18.67,25.64,5
+TKT13853,02/09/2024 14:19,04/09/2024 0:13,AGT005,Meena Pillai,South,Credit Card,Fraud Alert,OPEN,High,13.22,33.91,5
+TKT37601,2024-07-01 10:15:00,2024-07-08 17:46:12,AGT006,Arjun Singh,East,Credit Card,kyc update,Open,Low,15.48,175.52,2
+TKT99366,30/01/2024 19:30,31/01/2024 17:21,AGT006,Arjun Singh,East,Credit Card,billing issue,Escalated,High,12.25,21.85,2
+TKT55443,2024-05-12 10:23:00,2024-05-13 23:39:48,AGT009,Pooja Reddy,East,PersonalLoan,KYC Update,Escalated,Low,3.48,37.28,1
+TKT12376,2024-07-01 18:10:00,2024-07-02 13:45:24,AGT006,Arjun Singh,East,insurance,account access,CLOSED,Medium,4.61,19.59,5
+TKT98906,10/04/2024 11:40,12/04/2024 3:17,AGT001,Priya Sharma,North,,EMI Query,escalated,Medium,21.85,39.63,2
+TKT80731,07/03/2024 11:54,07/03/2024 15:11,AGT006,Arjun Singh,East,CreditCard,Account access,Open,High,1.14,3.29,
+TKT52558,19/12/2024 19:36,21/12/2024 13:34,AGT008,Vikram Nair,North,Credit Card,EMI query,Closed,High,,41.97,3
+TKT74272,29/05/2024 17:53,31/05/2024 03:50,AGT002,Rahul Verma,North,Credit Card,Account Access,OPEN,High,12.86,33.95,4
+TKT98809,14/07/2024 14:06,16/07/2024 01:27,AGT001,Priya Sharma,North,PersonalLoan,Policy Renewal,RESOLVED,Low,15.01,35.35,1
+TKT31376,2024-09-24 20:39:00,2024-09-26 16:10:12,AGT009,Pooja Reddy,East,Credit Card,Policy Renewal,CLOSED,Medium,23.73,43.52,
+TKT93928,15/11/2024 08:38,20/12/2024 13:30,AGT005,Meena Pillai,South,PersonalLoan,Account access,closed,High,23.87,844.87,2
+TKT82923,2024-05-21 16:29:00,2024-05-25 14:00:48,AGT007,Neha Bose,East,Credit Card,Account Access,RESOLVED,Low,98.43,93.53,4
+TKT69048,09-15-2024 10:31,09-16-2024 14:40,AGT008,Vikram Nair,North,Credit Card,Payment failure,Resolveddd,Low,0.6,28.16,3
+TKT59425,2024-07-10 12:35:00,2024-07-11 2:05:36,AGT010,Amit Joshi,South,Personal Loan,EMI query,Closed,Medium,2.49,13.51,3
+TKT87438,05-24-2024 16:41,05-25-2024 20:05,AGT001,,North,Insurance,,Escalated,High,22.71,27.4,4
+TKT93545,12-16-2024 17:57,12-22-2024 13:57,AGT004,Suresh Kumar,South,PERSONAL LOAN,KYC update,Resolved,Low,22.02,140,3
+TKT81110,18/05/2024 10:45,22/05/2024 10:46,AGT006,,East,Insurance,billing issue,Resolveddd,Low,19.39,96.02,4
+TKT62550,24/05/2024 20:54,,AGT002,Rahul Verma,North,insurance,CLAIM REQUEST,closed,Low,7.8,,1
+TKT58977,2024-01-22 10:25:00,2024-01-23 11:29:12,AGT005,Meena Pillai,South,Insurance,Account Access,CLOSED,Medium,19.03,25.07,
+TKT98166,07-27-2024 13:27,08-04-2024 10:04,AGT008,Vikram Nair,North,PersonalLoan,Payment Failure,Escalated,Low,2.53,188.63,2
+TKT96190,09/02/2024 12:34,11/02/2024 5:49,AGT002,Rahul Verma,North,INSURANCE,EMI Query,Escalated,High,5.34,41.26,5
+TKT31706,08-23-2024 20:57,08-25-2024 18:19,AGT008,Vikram Nair,Sth,INSURANCE,EMI Query,OPEN,Low,8.55,45.37,4
+TKT97208,12-18-2024 9:17,12-19-2024 21:08,AGT001,Priya Sharma,North,Personal Loan,EMI Query,open,Low,23.93,35.86,2
+TKT34582,01-31-2024 14:13,02-01-2024 10:21,AGT008,Vikram Nair,North,Personal Loan,kyc update,Open,Low,14.91,20.14,2
+TKT15929,2024-06-30 15:58:00,2024-07-01 20:11:48,AGT002,Rahul Verma,North,insurance,account access,Resolved,Low,10.11,28.23,1
+TKT82845,05-31-2024 11:03,06-01-2024 20:47,AGT008,Vikram Nair,North,insurance,Billing Issue,resolved,High,14.11,33.74,5
+TKT49052,2024-01-03 10:16:00,2024-01-06 13:31:00,AGT010,Amit Joshi,South,INSURANCE,fraud alert,Closed,Low,14.22,75.25,2
+TKT93903,02-04-2024 14:08,02-05-2024 9:36,AGT010,Amit Joshi,South,Insurance,CLAIM REQUEST,CLOSED,Low,0.51,19.48,3
+TKT18607,2024-06-13 8:21:00,2024-06-14 23:15:36,AGT008,Vikram Nair,North,INSURANCE,policy renewal,closed,Low,23.29,38.91,3
+TKT68891,01-22-2024 14:07,01-24-2024 7:51,AGT001,Priya Sharma,North,Credit Card,Fraud Alert,resolved,Medium,5.47,41.74,1
+TKT23156,16/02/2024 15:10,23/02/2024 05:54,AGT008,Vikram Nair,North,Personal Loan,Payment Failure,RESOLVED,Low,48.95,158.74,3
+TKT65545,05-22-2024 20:59,05-24-2024 5:03,AGT008,Vikram Nair,North,Credit Card,fraud alert,CLOSED,Low,3.91,32.07,4
+TKT59640,08-15-2024 18:12,08-17-2024 8:43,AGT009,,East,CreditCard,CLAIM REQUEST,Closed,Medium,20.66,38.53,4
+TKT47940,08-07-2024 11:39,08-09-2024 4:57,AGT005,Meena Pillai,South,CreditCard,fraud alert,Resolved,Low,4.08,41.31,
+TKT10974,02-13-2024 10:53,02-14-2024 11:06,AGT006,Arjun Singh,East,INSURANCE,Account Access,Escalated,,2.76,24.23,3
+TKT42594,19/04/2024 08:18,20/04/2024 20:24,AGT004,Suresh Kumar,South,INSURANCE,,Escalated,High,13.94,36.11,5
+TKT96108,06-08-2024 12:06,06-09-2024 16:21,AGT002,Rahul Verma,North,Credit Card,EMI query,Closed,High,8.7,28.26,1
+TKT73363,02-18-2024 20:39,02-20-2024 11:18,AGT008,Vikram Nair,North,Insurance,Account Access,Escalated,Low,20.1,38.66,4
+TKT15920,25/12/2024 18:18,27/12/2024 15:37,AGT010,,South,CREDIT CARD,CLAIM REQUEST,Open,Medium,20.12,45.33,4
+TKT44170,01-24-2024 12:28,01-27-2024 20:36,AGT001,Priya Sharma,North,Credit Card,EMI Query,Resolved,Medium,10.13,80.14,3
+TKT85925,11-02-2024 8:24,11-05-2024 22:05,AGT005,Meena Pillai,South,INSURANCE,Payment Failure,escalated,Medium,90.78,85.69,3
+TKT25544,12-21-2024 10:44,12-23-2024 23:36,AGT004,Suresh Kumar,South,Credit Card,BILLING ISSUE,Closed,High,5.82,60.87,
+TKT63368,10/10/2024 11:57,11/10/2024 14:07,AGT003,Anita Das,South,Insurance,kyc update,Closed,High,23.12,26.17,2
+TKT49833,2024-09-22 9:06:00,2024-09-27 17:33:00,AGT002,Rahul Verma,North,insurance,Policy Renewal,Resolved,Medium,17.54,128.45,2
+TKT94523,04-24-2024 16:18,04-26-2024 11:45,AGT007,Neha Bose,SOUTH,Credit Card,Policy Renewal,Resolved,High,6.79,43.45,4
+TKT82063,10-03-2024 20:46,10-05-2024 1:25,AGT003,Anita Das,South,Personal Loan,Fraud Alert,RESOLVED,High,16.71,28.65,3
+TKT15992,21/08/2024 19:33,22/08/2024 21:51,AGT005,Meena Pillai,South,personal loan,Payment Failure,resolved,High,14.51,26.3,1
+TKT80040,2024-12-20 14:34:00,2024-12-21 19:26:12,AGT009,Pooja Reddy,East,,EMI Query,Resolved,Low,1.36,28.87,5
+TKT36909,21/11/2024 09:33,21/11/2024 17:53,AGT003,Anita Das,South,personal loan,kyc update,Resolved,High,3.97,8.34,5
+TKT62227,2024-02-05 20:17:00,2024-02-06 18:22:24,AGT006,Arjun Singh,East,CREDIT CARD,PAYMENT FAILURE,Resolved,Low,8.75,22.09,3
+TKT94886,10-06-2024 19:38,10-11-2024 16:24,AGT006,Arjun Singh,East,credit card,Payment Failure,Closed,Medium,,116.77,1
+TKT51311,05-15-2024 12:57,05-18-2024 1:33,AGT010,Amit Joshi,South,Credit Card,fraud alert,Open,High,64.52,60.61,5
+TKT50094,27/05/2024 20:43,04/06/2024 20:40,AGT008,,North,insurance,EMI Query,Resolved,High,16.92,191.96,5
+TKT79275,11-18-2024 18:06,11-19-2024 16:59,AGT004,Suresh Kumar,North,CREDIT CARD,Payment Failure,open,Low,5.28,22.89,4
+TKT51054,08-17-2024 15:16,08-18-2024 13:52,AGT004,Suresh Kumar,South,INSURANCE,Policy Renewal,Escalated,Medium,15.16,22.61,4
+TKT53186,2024-01-24 14:30:00,2024-01-30 22:08:24,AGT010,Amit Joshi,South,Insurance,Policy Renewal,Escalated,Medium,18.16,151.64,3
+TKT22502,05-07-2024 8:16,05-08-2024 16:01,AGT003,Anita Das,South,CREDIT CARD,EMI Query,Open,Low,9.51,31.76,1
+TKT61296,20/07/2024 08:51,22/07/2024 01:25,AGT004,Suresh Kumar,South,Personal Loan,Payment Failure,Open,Low,22.4,40.58,5
+TKT84349,10/08/2024 20:58,12/08/2024 1:05,AGT002,Rahul Verma,EAST,PersonalLoan,Policy Renewal,closed,Low,22.31,28.12,
+TKT70302,07/01/2024 18:13,08/01/2024 11:29,AGT006,Arjun Singh,East,CREDIT CARD,CLAIM REQUEST,Escalated,Medium,9.42,17.27,5
+TKT54307,26/10/2024 08:24,21/11/2024 23:10,AGT006,Arjun Singh,East,Personal Loan,Fraud Alert,open,Low,4.59,638.78,2
+TKT64264,2024-01-08 10:56:00,2024-01-09 12:57:12,AGT009,Pooja Reddy,East,PERSONAL LOAN,CLAIM REQUEST,CLOSED,Low,21.72,26.02,
+TKT30092,2024-07-12 8:02:00,2024-07-13 16:43:24,AGT004,,Sth,,kyc update,closed,Medium,12.19,32.69,5
+TKT85354,21/11/2024 16:30,23/11/2024 08:24,AGT008,Vikram Nair,North,personal loan,PAYMENT FAILURE,RESOLVED,Low,3.61,39.91,4
+TKT50012,2024-12-30 13:06:00,2024-12-31 3:09:36,AGT003,Anita Das,South,CREDIT CARD,Billing Issue,RESOLVED,Medium,10.04,14.06,2
+TKT86637,2024-05-04 8:02:00,2024-05-05 23:44:00,AGT002,Rahul Verma,North,CreditCard,Account access,Resolved,Medium,14.16,39.7,3
+TKT19341,2024-07-05 20:51:00,2024-07-07 13:56:24,AGT007,Neha Bose,East,INSURANCE,fraud alert,Resolved,High,17.29,41.09,4
+TKT32630,12-15-2024 13:42,12-17-2024 7:09,AGT008,Vikram Nair,North,insurance,EMI Query,Open,High,8.66,41.45,2
+TKT42029,08-08-2024 13:13,08-10-2024 11:14,AGT010,Amit Joshi,South,Insurance,PAYMENT FAILURE,escalated,Medium,17.99,46.03,1
+TKT45638,2024-03-25 15:48:00,2024-03-27 22:04:12,AGT001,Priya Sharma,North,Credit Card,Policy Renewal,Open,High,109.36,54.27,
+TKT56013,07-13-2024 8:31,07-14-2024 10:38,AGT008,Vikram Nair,North,Insurance,,Escalated,Low,18.34,26.13,1
+TKT54077,2024-05-21 12:41:00,2024-05-23 4:56:00,AGT005,Meena Pillai,South,Insurance,EMI Query,Open,Low,17.21,40.25,2
+TKT25455,02-15-2024 20:37,02-23-2024 13:27,AGT005,Meena Pillai,South,credit card,CLAIM REQUEST,OPEN,Low,10.45,184.84,2
+TKT23989,18/10/2024 19:47,24/10/2024 14:21,AGT004,,South,PersonalLoan,,Escalated,Low,7.52,138.58,3
+TKT62041,2024-10-07 8:01:00,,AGT002,Rahul Verma,east,Insurance,KYC update,OPEN,Medium,18.62,,4
+TKT30518,25/12/2024 19:44,26/12/2024 23:05,AGT005,Meena Pillai,South,Insurance,Fraud Alert,RESOLVED,High,3.14,27.36,
+TKT30632,06-03-2024 20:20,06-05-2024 4:50,AGT007,Neha Bose,East,personal loan,Account Access,Resolved,Low,21.32,32.5,
+TKT71400,04-07-2024 20:04,04-09-2024 15:47,AGT010,Amit Joshi,South,CREDIT CARD,account access,escalated,Low,18.53,43.72,4
+TKT95745,2024-02-08 17:08:00,2024-02-09 22:59:00,AGT005,Meena Pillai,South,Personal Loan,Policy Renewal,OPEN,Medium,11.48,29.85,3
+TKT88364,2024-04-14 11:20:00,2024-04-19 14:37:24,AGT008,Vikram Nair,North,insurance,Account access,Closed,Low,7.29,123.29,3
+TKT39127,03-04-2024 10:33,03-05-2024 20:10,AGT007,Neha Bose,East,INSURANCE,KYC Update,resolved,Medium,17.62,33.63,4
+TKT84873,20/09/2024 10:51,23/09/2024 02:09,AGT004,Suresh Kumar,South,Personal Loan,account access,OPEN,High,22.64,63.31,3
+TKT10142,2024-03-08 17:14:00,2024-03-12 22:06:48,AGT004,Suresh Kumar,South,personal loan,Claim Request,Open,High,12.71,100.88,2
+TKT70560,22/08/2024 16:40,23/08/2024 06:14,AGT004,Suresh Kumar,South,Personal Loan,Billing issue,escalated,High,8.57,13.57,1
+TKT43493,2024-08-08 15:19:00,2024-08-09 11:53:48,AGT004,Suresh Kumar,South,Insurance,Billing Issue,Closed,Medium,18.87,20.58,3
+TKT42620,2024-07-22 8:41:00,2024-07-24 11:23:36,AGT010,Amit Joshi,South,CREDIT CARD,EMI query,Resolved,Medium,12.06,50.71,
+TKT61950,02-27-2024 16:34,03-06-2024 14:40,AGT002,Rahul Verma,North,credit card,EMI query,RESOLVED,Low,1.49,190.11,4
+TKT77499,08-26-2024 9:17,09-03-2024 9:02,AGT009,Pooja Reddy,South,personal loan,PAYMENT FAILURE,Escalated,High,,191.75,2
+TKT25003,10-02-2024 13:02,10-03-2024 10:36,AGT006,Arjun Singh,East,Personal Loan,Billing issue,Closed,Medium,11.33,21.57,3
+TKT67503,07-02-2024 19:08,07-05-2024 21:05,AGT004,Suresh Kumar,East,Credit Card,EMI query,CLOSED,Low,98.88,73.96,1
+TKT37962,25/09/2024 20:56,26/09/2024 19:22,AGT006,Arjun Singh,East,Insurance,BILLING ISSUE,closed,Low,19.86,22.44,2
+TKT60911,03-29-2024 10:15,03-30-2024 2:33,AGT006,Arjun Singh,East,,Payment failure,CLOSED,High,14.42,16.31,2
+TKT37030,2024-01-18 9:07:00,2024-01-20 6:16:36,AGT003,Anita Das,South,CREDIT CARD,Billing Issue,Escalated,Low,12.39,45.16,2
+TKT84738,01-30-2024 8:23,01-31-2024 7:47,AGT010,Amit Joshi,South,personal loan,EMI query,Escalated,High,2.99,23.41,1
+TKT16730,2024-11-23 9:18:00,2024-11-25 3:36:36,AGT004,Suresh Kumar,South,INSURANCE,EMI Query,Closed,Medium,,42.31,5
+TKT42028,2024-03-24 8:38:00,2024-03-31 18:02:00,AGT001,Priya Sharma,NORTH,Insurance,Fraud Alert,open,Low,8.96,177.4,2
+TKT84828,11/11/2024 16:34,13/11/2024 02:10,AGT005,Meena Pillai,South,personal loan,,closed,Low,20.57,33.6,3
+TKT55758,2024-11-22 14:01:00,2024-11-26 6:57:24,AGT004,,South,CREDIT CARD,account access,Open,Low,4.88,88.94,
+TKT76144,2024-10-03 13:12:00,2024-10-04 20:01:12,AGT005,Meena Pillai,South,insurance,Claim request,CLOSED,Low,10.24,30.82,3
+TKT65986,2024-02-20 16:31:00,2024-02-26 1:40:00,AGT008,Vikram Nair,North,personal loan,Policy Renewal,Escalated,High,11.75,129.15,2
+TKT90224,2024-11-06 9:54:00,2024-11-07 22:28:12,AGT005,Meena Pillai,Sth,Insurance,Policy Renewal,Open,Low,17.84,36.57,1
+TKT65725,30/11/2024 20:15,02/12/2024 12:11,AGT002,Rahul Verma,North,credit card,Fraud Alert,Escalated,Low,7.5,39.94,3
+TKT41465,20/12/2024 10:52,25/12/2024 18:09,AGT001,Priya Sharma,east,Personal Loan,,Open,Low,15.95,127.29,
+TKT67154,12-17-2024 19:47,12-19-2024 16:33,AGT001,Priya Sharma,North,Personal Loan,kyc update,CLOSED,Medium,17.82,44.77,5
+TKT47298,05/10/2024 16:31,07/10/2024 10:49,AGT008,Vikram Nair,North,CreditCard,KYC update,RESOLVED,Medium,21.4,42.3,1
+TKT83877,2024-08-02 10:20:00,2024-08-08 6:28:24,AGT009,Pooja Reddy,East,Personal Loan,Account Access,RESOLVED,Low,23.82,140.14,
+TKT64154,12-26-2024 15:48,12-27-2024 22:04,AGT009,Pooja Reddy,East,Personal Loan,EMI query,escalated,High,9.73,30.27,
+TKT16346,03-01-2024 18:59,03-02-2024 14:29,AGT003,Anita Das,NORTH,Insurance,Account Access,Closed,High,16.96,19.51,5
+TKT51486,2024-09-12 13:07:00,2024-09-14 11:47:48,AGT003,Anita Das,South,Insurance,Account Access,open,Medium,19.11,46.68,1
+TKT32608,09/12/2024 18:05,11/12/2024 7:38,AGT007,Neha Bose,East,Credit Card,Account Access,Resolveddd,,18.78,37.56,5
+TKT15577,12-20-2024 17:30,12-21-2024 22:37,AGT004,Suresh Kumar,South,credit card,EMI Query,open,Low,6.87,29.12,5
+TKT53917,27/02/2024 20:11,29/02/2024 00:06,AGT009,Pooja Reddy,East,INSURANCE,,Closed,High,23.55,27.93,4
+TKT71184,03/09/2024 18:34,04/09/2024 5:17,AGT003,Anita Das,South,Insurance,PAYMENT FAILURE,CLOSED,High,6.16,10.72,4
+TKT34319,2024-05-09 13:21:00,2024-05-10 7:45:00,AGT007,Neha Bose,EAST,credit card,EMI query,Closed,Low,4.43,18.4,5
+TKT22073,15/07/2024 14:23,20/07/2024 17:03,AGT006,Arjun Singh,East,CREDIT CARD,Fraud Alert,Resolved,Medium,19.63,122.68,3
+TKT80991,2024-08-13 10:50:00,2024-08-14 6:09:12,AGT004,Suresh Kumar,South,Personal Loan,Billing Issue,escalated,Medium,16.42,19.32,2
+TKT82845,2024-05-03 11:14:00,2024-05-05 5:18:12,AGT003,Anita Das,South,Credit Card,,Open,High,15.03,42.07,1
+TKT90973,21/06/2024 12:34,23/06/2024 01:29,AGT001,Priya Sharma,North,PersonalLoan,Fraud Alert,Resolved,Low,23.74,36.93,
+TKT78012,05-08-2024 11:40,05-09-2024 13:47,AGT005,Meena Pillai,South,Credit Card,,Escalated,High,22.97,26.12,4
+TKT86076,02-16-2024 11:38,02-17-2024 8:37,AGT009,Pooja Reddy,East,insurance,Policy Renewal,Open,High,3.37,20.99,1
+TKT94554,2024-01-16 9:11:00,2024-01-19 23:13:24,AGT009,Pooja Reddy,East,INSURANCE,,Escalated,High,19.51,86.04,4
+TKT38707,2024-06-20 20:12:00,2024-06-22 19:06:36,AGT005,Meena Pillai,South,PERSONAL LOAN,EMI Query,Open,High,12.27,46.91,1
+TKT73950,2024-09-27 8:27:00,2024-09-29 3:54:36,AGT004,Suresh Kumar,South,Personal Loan,EMI query,Closed,High,14.05,43.46,5
+TKT50952,12-09-2024 20:34,12-10-2024 3:58,AGT006,Arjun Singh,East,Personal Loan,CLAIM REQUEST,Closed,High,2.35,7.41,3
+TKT21300,09-02-2024 16:26,09-10-2024 20:15,AGT002,Rahul Verma,North,CreditCard,CLAIM REQUEST,open,High,18.58,195.83,2
+TKT39082,2024-11-03 15:33:00,2024-11-05 23:51:00,AGT003,Anita Das,Est,Credit Card,account access,closed,High,11.46,56.3,5
+TKT41711,08-16-2024 10:55,08-17-2024 8:26,AGT006,Arjun Singh,East,CREDIT CARD,BILLING ISSUE,resolved,Low,11.65,21.53,1
+TKT80035,12-04-2024 16:43,12-06-2024 12:02,AGT006,Arjun Singh,East,credit card,Account access,OPEN,High,14.82,43.32,1
+TKT45276,2024-01-05 8:29:00,2024-01-05 22:38:00,AGT007,Neha Bose,East,,Claim request,closed,Low,5.13,14.15,1
+TKT56254,30/11/2024 18:30,04/12/2024 11:26,AGT003,Anita Das,South,PERSONAL LOAN,BILLING ISSUE,Resolved,Low,55.74,88.94,5
+TKT99192,03-01-2024 14:22,03-04-2024 20:42,AGT002,Rahul Verma,east,Insurance,BILLING ISSUE,Resolveddd,Medium,91.02,78.34,5
+TKT99445,06-12-2024 15:42,06-13-2024 18:54,AGT003,Anita Das,NORTH,Insurance,fraud alert,Resolveddd,High,20.4,27.2,2
+TKT20972,30/11/2024 13:36,01/12/2024 17:19,AGT003,Anita Das,South,Credit Card,PAYMENT FAILURE,Escalated,Low,17.54,27.72,5
+TKT95460,2024-12-28 15:32:00,2024-12-29 19:53:36,AGT004,Suresh Kumar,South,personal loan,billing issue,resolved,,13.54,28.36,5
+TKT80161,06-06-2024 15:32,06-07-2024 23:33,AGT010,Amit Joshi,South,insurance,CLAIM REQUEST,Resolveddd,Medium,11.96,32.03,2
+TKT28003,2024-04-24 13:13:00,2024-05-23 1:13:00,AGT010,Amit Joshi,South,Credit Card,Payment Failure,closed,Medium,1.66,684,5
+TKT69515,2024-10-10 19:59:00,2024-10-11 9:20:36,AGT003,Anita Das,South,credit card,policy renewal,Escalated,Medium,11.54,13.36,1
+TKT98701,03-03-2024 8:35,03-04-2024 0:36,AGT008,Vikram Nair,North,Credit Card,,Open,Low,2.46,16.03,2
+TKT67816,10-02-2024 17:42,10-03-2024 23:35,AGT010,Amit Joshi,South,Credit Card,Claim Request,Closed,Medium,21.58,29.89,2
+TKT53077,2024-11-17 9:04:00,2024-11-18 20:07:00,AGT006,Arjun Singh,East,personal loan,Claim Request,closed,Medium,5.34,35.05,5
+TKT36585,11-11-2024 15:44,11-12-2024 2:27,AGT004,Suresh Kumar,east,PERSONAL LOAN,Policy Renewal,Resolved,High,8.14,10.72,5
+TKT88592,07/12/2024 18:19,09/12/2024 1:53,AGT003,Anita Das,South,Personal Loan,billing issue,OPEN,High,15.18,31.57,3
+TKT49302,16/07/2024 19:56,17/07/2024 20:17,AGT005,Meena Pillai,South,Personal Loan,Payment failure,CLOSED,Low,1.88,24.36,3
+TKT55029,28/08/2024 15:32,30/08/2024 13:59,AGT009,Pooja Reddy,East,personal loan,Billing Issue,Escalated,Low,21.79,46.46,1
+TKT90173,06-02-2024 18:06,06-05-2024 11:15,AGT009,Pooja Reddy,EAST,CREDIT CARD,KYC update,Escalated,Low,22.56,65.16,3
+TKT76216,18/04/2024 15:03,20/04/2024 01:27,AGT009,Pooja Reddy,East,PERSONAL LOAN,policy renewal,Open,High,9.81,34.4,5
+TKT41203,15/08/2024 19:56,17/08/2024 00:50,AGT010,Amit Joshi,South,INSURANCE,billing issue,escalated,High,8.22,28.9,4
+TKT28294,23/02/2024 12:15,26/02/2024 10:10,AGT002,Rahul Verma,North,Personal Loan,PAYMENT FAILURE,Escalated,High,109.3,69.93,5
+TKT22061,12-05-2024 17:23,12-07-2024 9:35,AGT005,Meena Pillai,South,personal loan,EMI Query,escalated,Medium,21.68,40.2,4
+TKT39131,04/09/2024 12:58,06/09/2024 4:04,AGT007,Neha Bose,East,Insurance,Claim request,Resolveddd,High,17.02,39.1,
+TKT70317,2024-10-30 18:11:00,2024-11-01 5:42:48,AGT007,Neha Bose,East,INSURANCE,Payment Failure,open,Low,6.57,35.53,2
+TKT29969,17/09/2024 19:14,18/09/2024 07:18,AGT002,Rahul Verma,North,,policy renewal,Closed,High,8.71,12.07,5
+TKT98854,24/09/2024 17:41,25/09/2024 18:08,AGT005,Meena Pillai,South,insurance,EMI Query,closed,High,16.23,24.46,4
+TKT77833,31/01/2024 10:28,02/02/2024 1:49,AGT010,Amit Joshi,South,Personal Loan,Claim Request,RESOLVED,High,11.67,39.35,4
+TKT52854,04-30-2024 16:35,05-02-2024 14:04,AGT010,Amit Joshi,south,insurance,EMI Query,escalated,Medium,3.88,45.49,2
+TKT50827,10/02/2024 20:45,12/02/2024 5:09,AGT009,Pooja Reddy,East,,Billing issue,Closed,Low,13.4,32.41,1
+TKT29254,04-29-2024 9:41,04-29-2024 13:57,AGT010,Amit Joshi,South,Credit Card,kyc update,RESOLVED,Low,1.4,4.27,3
+TKT44478,2024-06-20 20:03:00,2024-06-22 4:49:48,AGT003,Anita Das,South,CreditCard,Account Access,Escalated,Medium,3.77,32.78,
+TKT38047,05-18-2024 16:44,05-19-2024 2:36,AGT004,Suresh Kumar,South,credit card,Billing Issue,CLOSED,Low,6.88,9.87,4
+TKT18950,2024-06-04 20:17:00,2024-06-09 19:00:12,AGT008,Vikram Nair,North,CREDIT CARD,KYC Update,Resolved,Low,14.4,118.72,2
+TKT90594,17/07/2024 20:56,18/07/2024 23:21,AGT002,Rahul Verma,North,Insurance,Claim Request,Escalated,Medium,15.66,26.42,2
+TKT29297,25/08/2024 13:41,30/08/2024 16:56,AGT008,Vikram Nair,north,Credit Card,KYC update,Escalated,Medium,21.34,123.26,5
+TKT83137,2024-04-23 15:23:00,2024-04-24 14:36:12,AGT010,Amit Joshi,South,Personal Loan,KYC Update,Resolved,Low,9.69,23.22,4
+TKT50037,2024-08-02 11:54:00,2024-08-03 7:00:00,AGT003,Anita Das,South,CREDIT CARD,Claim request,escalated,High,15.4,19.1,3
+TKT54279,11-06-2024 10:48,11-06-2024 21:51,AGT007,Neha Bose,East,Personal Loan,policy renewal,Open,Medium,3.76,11.05,5
+TKT36399,10-08-2024 16:29,10-10-2024 1:06,AGT003,,South,Personal Loan,policy renewal,CLOSED,Medium,5.49,32.62,4
+TKT21719,26/09/2024 17:37,28/09/2024 09:00,AGT001,Priya Sharma,North,Insurance,Payment failure,Escalated,Medium,6.02,39.39,1
+TKT85352,07-12-2024 17:30,07-14-2024 1:43,AGT005,Meena Pillai,South,CreditCard,Account access,Resolveddd,Low,18.59,32.22,3
+TKT48141,07-22-2024 13:32,07-23-2024 22:14,AGT003,,South,CreditCard,Payment failure,Open,Medium,0.75,32.71,3
+TKT97728,22/06/2024 19:37,24/06/2024 12:58,AGT005,Meena Pillai,South,Credit Card,PAYMENT FAILURE,Resolved,Low,10.42,41.36,3
+TKT64720,06-03-2024 10:16,06-04-2024 2:41,AGT001,Priya Sharma,North,Insurance,Claim request,Resolved,High,11.24,16.42,1
+TKT24282,12-23-2024 16:33,12-24-2024 17:28,AGT006,Arjun Singh,East,CREDIT CARD,Billing issue,RESOLVED,High,4.69,24.93,1
+TKT30955,24/09/2024 09:05,,AGT009,Pooja Reddy,East,Personal Loan,Account Access,Open,Low,4.78,,5
+TKT37221,12/02/2024 10:25,13/02/2024 09:37,AGT008,Vikram Nair,North,PersonalLoan,kyc update,Open,Medium,14.99,23.2,4
+TKT42197,11-26-2024 15:42,11-28-2024 10:50,AGT004,Suresh Kumar,east,credit card,Payment Failure,Closed,Low,5.46,43.14,2
+TKT45043,05-21-2024 8:04,05-22-2024 11:35,AGT009,Pooja Reddy,East,INSURANCE,CLAIM REQUEST,resolved,Medium,9.26,27.53,
+TKT25608,12-24-2024 10:06,12-25-2024 20:50,AGT004,Suresh Kumar,South,credit card,Policy Renewal,Resolved,High,5.54,34.74,4
+TKT70187,2024-08-15 11:50:00,2024-08-17 4:08:00,AGT004,Suresh Kumar,South,CreditCard,Account Access,Resolveddd,Low,4.66,40.3,
+TKT70461,02-15-2024 20:08,02-16-2024 16:02,AGT001,,East,INSURANCE,BILLING ISSUE,Open,Low,14.96,19.91,1
+TKT48352,03-14-2024 20:15,03-16-2024 16:14,AGT008,Vikram Nair,North,INSURANCE,EMI Query,Closed,Medium,5.04,43.99,5
+TKT20744,2024-03-12 16:12:00,2024-03-15 4:35:24,AGT005,Meena Pillai,South,Insurance,Policy Renewal,Open,Low,6.69,60.39,5
+TKT30975,06-04-2024 19:27,06-09-2024 4:46,AGT003,Anita Das,South,INSURANCE,,Resolveddd,Medium,23.69,105.32,5
+TKT19450,2024-04-01 19:47:00,2024-04-05 2:15:48,AGT006,Arjun Singh,East,Insurance,EMI Query,Escalated,High,5.11,78.48,4
+TKT10495,2024-05-05 11:43:00,2024-05-07 1:28:00,AGT007,Neha Bose,East,PersonalLoan,Claim Request,open,High,4.14,37.75,1
+TKT63267,08/11/2024 10:57,12/11/2024 0:00,AGT004,Suresh Kumar,South,Personal Loan,policy renewal,open,High,4.58,85.05,1
+TKT59052,2024-01-31 9:39:00,2024-02-02 1:40:48,AGT006,Arjun Singh,East,CreditCard,KYC update,open,High,21.29,40.03,1
+TKT57852,12-03-2024 10:11,12-04-2024 8:46,AGT001,Priya Sharma,North,Personal Loan,EMI Query,Closed,Low,5.76,22.59,2
+TKT88139,09-21-2024 11:05,09-22-2024 13:12,AGT005,Meena Pillai,South,PersonalLoan,Billing Issue,Escalated,Medium,6.17,26.13,3
+TKT72341,2024-02-01 15:06:00,2024-02-03 4:44:24,AGT009,Pooja Reddy,East,CreditCard,Claim request,escalated,Medium,19.56,37.64,5
+TKT67939,06/09/2024 8:23,07/09/2024 9:20,AGT003,Anita Das,South,INSURANCE,EMI Query,Closed,Medium,20.69,24.95,5
+TKT64772,2024-02-25 14:29:00,,AGT003,Anita Das,South,INSURANCE,CLAIM REQUEST,closed,Medium,5.2,,4
+TKT67379,03-27-2024 13:01,03-28-2024 17:10,AGT006,Arjun Singh,East,insurance,Policy Renewal,resolved,High,3.12,28.15,4
+TKT56453,2024-05-21 17:16:00,2024-05-23 9:23:48,AGT002,Rahul Verma,North,personal loan,CLAIM REQUEST,escalated,High,22.76,40.13,1
+TKT94045,01/02/2024 11:06,26/02/2024 03:57,AGT004,,South,Personal Loan,kyc update,closed,Medium,11.94,592.86,4
+TKT87564,08-01-2024 8:02,08-02-2024 17:35,AGT003,Anita Das,South,CreditCard,Claim request,Resolved,High,23.79,33.55,
+TKT76540,2024-07-10 20:10:00,2024-08-07 10:14:48,AGT010,Amit Joshi,South,CREDIT CARD,KYC update,resolved,Low,13.18,662.08,
+TKT78623,02-09-2024 13:23,02-09-2024 20:17,AGT010,,South,Insurance,EMI Query,escalated,Medium,1.4,6.91,1
+TKT69591,11-20-2024 12:53,11-21-2024 18:26,AGT003,Anita Das,EAST,Insurance,KYC Update,Open,Medium,,29.56,2
+TKT66645,2024-11-30 10:03:00,2024-12-06 4:49:48,AGT007,Neha Bose,East,PersonalLoan,Payment Failure,Escalated,,22.45,138.78,
+TKT53228,27/05/2024 18:25,28/05/2024 23:34,AGT007,Neha Bose,East,Insurance,Claim Request,resolved,Low,19.62,29.15,4
+TKT53276,2024-12-01 9:17:00,2024-12-02 15:46:24,AGT004,Suresh Kumar,South,Credit Card,Billing Issue,CLOSED,Medium,12.6,30.49,1
+TKT62317,11-19-2024 20:42,,AGT002,Rahul Verma,North,credit card,,Resolved,High,14.66,,5
+TKT84498,2024-07-24 13:43:00,2024-07-26 6:58:00,AGT004,,South,credit card,Claim request,RESOLVED,High,15.31,41.25,
+TKT78289,11-01-2024 8:49,11-02-2024 22:49,AGT005,,South,personal loan,Billing Issue,open,,19.78,38,4
+TKT97042,2024-05-12 17:32:00,2024-05-14 4:08:36,AGT003,Anita Das,Sth,Insurance,Billing issue,open,High,1.14,34.61,3
+TKT78494,2024-08-14 12:55:00,2024-08-16 10:39:24,AGT007,Neha Bose,East,credit card,KYC Update,open,High,14.33,45.74,3
+TKT33187,2024-12-29 8:20:00,2024-12-30 14:39:12,AGT001,Priya Sharma,Sth,PERSONAL LOAN,PAYMENT FAILURE,Resolveddd,Medium,2.79,30.32,
+TKT19392,2024-10-27 8:14:00,2024-10-28 18:55:24,AGT006,,East,Insurance,account access,Open,High,21.31,34.69,4
+TKT66202,2024-03-10 9:30:00,2024-03-11 7:51:36,AGT008,Vikram Nair,Est,insurance,PAYMENT FAILURE,Resolved,Low,15.94,22.36,2
+TKT47645,2024-01-08 15:50:00,2024-01-09 17:26:36,AGT001,Priya Sharma,North,INSURANCE,Claim Request,Escalated,,18.42,25.61,5
+TKT59832,06-08-2024 8:37,06-09-2024 10:43,AGT010,Amit Joshi,South,Credit Card,Fraud Alert,Closed,Low,13.09,26.1,
+TKT49655,01/12/2024 8:23,03/12/2024 14:07,AGT004,Suresh Kumar,South,personal loan,Claim Request,CLOSED,Medium,4.18,53.74,2
+TKT68414,2024-09-24 9:20:00,2024-09-25 3:17:36,AGT002,,North,INSURANCE,Payment Failure,OPEN,Low,2.67,17.96,5
+TKT35223,06-28-2024 13:18,06-29-2024 0:22,AGT009,Pooja Reddy,East,Insurance,fraud alert,Resolved,Medium,8.54,11.08,1
+TKT64876,2024-11-19 13:22:00,2024-11-21 8:36:24,AGT002,Rahul Verma,North,Personal Loan,Payment failure,RESOLVED,Medium,13.76,43.24,
+TKT24184,07-07-2024 9:48,07-08-2024 23:44,AGT006,Arjun Singh,East,Insurance,KYC Update,OPEN,Low,7.05,37.94,
+TKT29564,2024-03-07 19:28:00,,AGT004,Suresh Kumar,South,personal loan,billing issue,Resolveddd,Medium,12.2,,5
+TKT58030,02-23-2024 16:22,02-24-2024 22:42,AGT005,Meena Pillai,South,Credit Card,,escalated,High,16.5,30.34,4
+TKT43392,2024-01-03 8:03:00,2024-01-05 0:04:12,AGT008,Vikram Nair,North,Personal Loan,EMI Query,Closed,Medium,9.58,40.02,5
+TKT72163,02-17-2024 14:06,02-20-2024 0:09,AGT002,Rahul Verma,north,INSURANCE,Account Access,Escalated,Medium,18,58.06,4
+TKT30523,08-11-2024 14:27,08-13-2024 9:01,AGT008,Vikram Nair,North,Personal Loan,Billing Issue,escalated,Medium,19.85,42.57,
+TKT69129,2024-01-09 14:43:00,2024-01-16 8:21:24,AGT007,Neha Bose,East,Insurance,EMI Query,RESOLVED,Low,99.86,161.64,5
+TKT74876,2024-07-31 19:53:00,2024-08-01 15:32:36,AGT007,Neha Bose,East,personal loan,KYC update,Closed,Low,10.93,19.66,4
+TKT84130,17/11/2024 18:30,18/11/2024 19:18,AGT007,Neha Bose,East,Credit Card,billing issue,escalated,Low,23.4,24.8,5
+TKT50441,06-07-2024 12:17,06-08-2024 0:11,AGT001,Priya Sharma,North,credit card,KYC update,Escalated,Low,4.45,11.9,1
+TKT19023,2024-03-08 9:01:00,,AGT004,Suresh Kumar,South,CreditCard,Billing Issue,Resolved,Medium,5.26,,4
+TKT40865,07/05/2024 13:37,10/05/2024 10:43,AGT010,Amit Joshi,South,Insurance,Fraud Alert,Closed,Low,16.58,69.11,5
+TKT41492,01/04/2024 20:00,02/04/2024 20:12,AGT007,Neha Bose,East,Personal Loan,Payment Failure,Closed,High,,24.21,2
+TKT93062,12/08/2024 12:02,14/08/2024 07:27,AGT010,Amit Joshi,South,Insurance,EMI Query,Escalated,High,22.96,43.42,2
+TKT88447,21/02/2024 08:22,22/02/2024 18:34,AGT009,Pooja Reddy,East,Insurance,Payment Failure,escalated,Medium,21.58,34.2,
+TKT88208,04-21-2024 15:58,04-22-2024 23:37,AGT005,Meena Pillai,South,Insurance,Policy Renewal,Open,,13.67,31.66,2
+TKT99211,2024-11-24 14:36:00,2024-11-26 10:01:12,AGT010,,South,PERSONAL LOAN,Billing Issue,Resolved,High,18.87,43.42,2
+TKT29715,12/04/2024 16:05,13/04/2024 23:28,AGT010,Amit Joshi,South,Insurance,Payment Failure,escalated,Medium,10.8,31.39,3
+TKT74340,2024-10-20 12:30:00,2024-10-22 6:45:36,AGT002,Rahul Verma,North,CreditCard,Claim Request,resolved,High,11.75,42.26,5
+TKT43260,06/11/2024 12:02,08/11/2024 2:04,AGT009,Pooja Reddy,East,Insurance,BILLING ISSUE,Closed,High,15.71,38.04,2
+TKT19624,04/05/2024 17:17,05/05/2024 9:23,AGT010,Amit Joshi,South,,,Closed,Medium,10.4,16.11,5
+TKT81319,2024-07-14 13:11:00,2024-07-15 10:34:24,AGT007,Neha Bose,East,Credit Card,Account access,closed,Low,10.98,21.39,2
+TKT83546,04-13-2024 9:37,04-13-2024 18:59,AGT009,Pooja Reddy,East,Insurance,EMI Query,Escalated,Low,4.08,9.37,2
+TKT84847,05-09-2024 17:51,05-11-2024 14:22,AGT006,Arjun Singh,East,Insurance,billing issue,Open,High,22.9,44.53,2
+TKT20222,05/12/2024 15:31,07/12/2024 1:16,AGT010,Amit Joshi,Sth,Insurance,Payment failure,Escalated,,14.85,33.75,2
+TKT14806,11/05/2024 13:47,19/05/2024 00:38,AGT002,,North,credit card,Payment failure,open,Medium,14.34,178.85,
+TKT67732,12-16-2024 13:09,12-18-2024 22:23,AGT001,Priya Sharma,North,CREDIT CARD,Billing issue,RESOLVED,Medium,18.31,57.24,5
+TKT39468,09/11/2024 12:46,10/11/2024 16:27,AGT001,Priya Sharma,North,Personal Loan,Billing issue,escalated,Medium,17.23,27.69,4
+TKT62705,2024-07-31 16:11:00,2024-08-01 18:50:36,AGT003,Anita Das,South,Insurance,Claim request,Escalated,High,15.81,26.66,1
+TKT33295,04-06-2024 9:09,04-06-2024 16:43,AGT007,Neha Bose,East,Credit Card,Account Access,Closed,High,2.19,7.58,
+TKT52023,2024-07-23 16:32:00,2024-07-25 7:57:12,AGT009,Pooja Reddy,East,Personal Loan,fraud alert,Open,Low,11.4,39.42,2
+TKT23949,2024-08-20 10:53:00,2024-08-22 8:59:00,AGT004,Suresh Kumar,South,personal loan,Account access,Open,Medium,,46.1,
+TKT32650,05-12-2024 11:37,05-14-2024 3:47,AGT006,Arjun Singh,East,Personal Loan,,open,Medium,16.35,40.18,3
+TKT21141,12/02/2024 9:01,14/02/2024 06:53,AGT005,Meena Pillai,South,CREDIT CARD,,escalated,Medium,23.14,45.88,4
+TKT95854,2024-02-28 20:13:00,2024-02-29 12:43:36,AGT001,Priya Sharma,North,personal loan,Policy Renewal,open,High,6.52,16.51,5
+TKT65523,2024-12-30 8:35:00,2024-12-31 10:21:48,AGT008,Vikram Nair,North,PersonalLoan,Fraud Alert,escalated,Medium,21.56,25.78,3
+TKT37647,31/10/2024 12:37,01/11/2024 5:37,AGT009,Pooja Reddy,East,CreditCard,Payment Failure,Open,High,13.86,17.01,1
+TKT94133,25/03/2024 08:51,26/03/2024 08:25,AGT007,Neha Bose,East,credit card,KYC update,Resolved,High,9.23,23.57,5
+TKT13969,2024-10-06 12:41:00,2024-10-07 19:30:48,AGT008,Vikram Nair,North,Insurance,Payment Failure,Closed,Medium,22.98,30.83,2
+TKT64525,07-08-2024 8:03,07-11-2024 7:09,AGT004,Suresh Kumar,east,personal loan,Billing issue,CLOSED,High,72.83,71.1,4
+TKT18200,05/04/2024 13:20,07/04/2024 10:56,AGT010,Amit Joshi,EAST,Insurance,Policy Renewal,RESOLVED,Medium,5.13,45.61,
+TKT95010,02-28-2024 19:28,03-01-2024 17:42,AGT003,Anita Das,South,CreditCard,Policy Renewal,OPEN,Low,15.4,46.24,4
+TKT20814,2024-02-12 13:43:00,2024-02-13 12:59:12,AGT001,Priya Sharma,North,Insurance,Claim Request,Closed,Medium,17.72,23.27,3
+TKT71674,2024-11-13 9:30:00,2024-11-14 15:14:24,AGT001,Priya Sharma,North,credit card,fraud alert,Closed,High,21.4,29.74,1
+TKT92061,2024-05-05 10:37:00,2024-05-06 2:30:24,AGT001,Priya Sharma,North,Insurance,KYC update,Open,,9.34,15.89,4
+TKT28322,27/05/2024 18:24,28/05/2024 22:31,AGT004,Suresh Kumar,South,credit card,Billing issue,Resolved,Medium,23.09,28.12,1
+TKT48949,2024-05-17 15:38:00,2024-05-18 15:04:24,AGT001,Priya Sharma,EAST,Personal Loan,EMI Query,escalated,High,,23.44,3
+TKT32069,29/05/2024 12:36,30/05/2024 00:06,AGT006,Arjun Singh,East,CREDIT CARD,Payment failure,open,Low,6.78,11.51,4
+TKT33883,19/09/2024 15:32,21/09/2024 07:45,AGT007,Neha Bose,East,Insurance,Fraud Alert,Escalated,Medium,13.07,40.23,2
+TKT25397,03-16-2024 12:13,03-18-2024 9:37,AGT002,Rahul Verma,North,INSURANCE,KYC update,Resolved,Low,18.97,45.4,5
+TKT80702,2024-11-28 9:49:00,2024-11-30 10:25:00,AGT001,Priya Sharma,North,CreditCard,account access,CLOSED,Medium,50.23,48.6,
+TKT28051,14/09/2024 18:49,16/09/2024 09:11,AGT006,Arjun Singh,East,Insurance,KYC update,Resolveddd,Medium,13.68,38.37,5
+TKT69582,15/03/2024 18:13,18/03/2024 22:07,AGT001,Priya Sharma,North,personal loan,billing issue,Resolveddd,Medium,91.28,75.91,4
+TKT47681,09-20-2024 20:33,09-22-2024 8:55,AGT003,Anita Das,South,PersonalLoan,PAYMENT FAILURE,CLOSED,Low,7.49,36.38,
+TKT29249,15/04/2024 16:39,17/04/2024 09:45,AGT007,Neha Bose,East,CREDIT CARD,Account Access,escalated,Low,19.03,41.11,3
+TKT67013,19/12/2024 16:00,21/12/2024 13:22,AGT008,Vikram Nair,North,credit card,BILLING ISSUE,Escalated,Low,13.89,45.38,4
+TKT83535,2024-02-09 16:55:00,2024-02-14 4:55:00,AGT007,Neha Bose,East,Credit Card,Policy Renewal,Resolveddd,High,9.93,108,5
+TKT30667,18/10/2024 20:35,19/10/2024 16:22,AGT001,Priya Sharma,North,Credit Card,Policy Renewal,Resolved,,0.83,19.79,1
+TKT69641,26/06/2024 12:07,27/06/2024 15:48,AGT010,,South,insurance,,Escalated,Medium,23.28,27.69,1
+TKT90837,2024-12-19 18:25:00,2024-12-23 0:13:36,AGT006,Arjun Singh,East,insurance,billing issue,closed,Low,19.41,77.81,
+TKT86851,08/03/2024 18:56,12/03/2024 21:09,AGT004,Suresh Kumar,South,credit card,Billing issue,escalated,High,19.91,98.22,5
+TKT27132,2024-06-10 20:25:00,2024-06-11 16:33:24,AGT004,Suresh Kumar,South,Credit Card,account access,resolved,Medium,16.97,20.14,1
+TKT54540,10/04/2024 8:11,16/04/2024 15:29,AGT009,Pooja Reddy,East,Insurance,EMI Query,escalated,High,20.31,151.3,1
+TKT16608,2024-08-15 19:34:00,2024-08-17 15:49:00,AGT008,Vikram Nair,North,Insurance,policy renewal,Resolved,High,10.28,44.25,
+TKT56550,11-24-2024 16:28,12-02-2024 16:52,AGT010,Amit Joshi,South,personal loan,Fraud Alert,CLOSED,Low,19.99,192.4,1
+TKT86221,12-04-2024 20:08,12-12-2024 0:05,AGT001,Priya Sharma,North,PERSONAL LOAN,Claim Request,Closed,Medium,7.38,171.96,4
+TKT37405,2024-05-01 17:07:00,2024-05-03 13:26:48,AGT002,Rahul Verma,North,CreditCard,KYC update,Resolveddd,High,2.7,44.33,
+TKT96108,30/05/2024 19:45,31/05/2024 19:30,AGT008,Vikram Nair,North,Credit Card,fraud alert,Resolveddd,High,9.67,23.76,5
+TKT44358,05/07/2024 15:48,10/07/2024 12:50,AGT003,Anita Das,South,personal loan,Fraud Alert,Resolveddd,High,10.91,117.04,4
+TKT31153,04/05/2024 14:03,05/05/2024 11:44,AGT005,,South,Credit Card,Billing Issue,closed,Medium,18.41,21.69,4
+TKT11769,22/06/2024 19:05,23/06/2024 07:59,AGT001,Priya Sharma,Est,personal loan,Fraud Alert,Escalated,Low,5.25,12.9,
+TKT95459,12-25-2024 9:41,12-26-2024 10:39,AGT005,Meena Pillai,South,Personal Loan,Payment failure,Open,High,15.62,24.97,3
+TKT77385,05-17-2024 16:12,05-19-2024 13:13,AGT004,Suresh Kumar,South,Insurance,Payment Failure,closed,Medium,,45.02,3
+TKT99922,22/12/2024 17:02,29/12/2024 05:24,AGT005,Meena Pillai,South,Personal Loan,Billing issue,Escalated,High,5.55,156.38,1
+TKT57683,03-04-2024 19:31,03-06-2024 4:40,AGT001,Priya Sharma,North,Personal Loan,Payment Failure,CLOSED,High,15.75,33.16,5
+TKT80564,04-21-2024 10:47,04-23-2024 6:25,AGT006,Arjun Singh,East,CREDIT CARD,EMI query,escalated,,6.01,43.64,5
+TKT76127,22/04/2024 13:24,23/04/2024 18:03,AGT002,Rahul Verma,North,personal loan,KYC Update,Open,High,,28.66,3
+TKT80855,03-10-2024 19:34,,AGT005,Meena Pillai,South,INSURANCE,EMI query,Open,Medium,4.66,,
+TKT84461,02-29-2024 9:24,02-29-2024 22:54,AGT003,Anita Das,South,CreditCard,Claim request,Closed,High,,13.5,5
+TKT22521,01-23-2024 11:56,01-25-2024 8:50,AGT007,Neha Bose,East,insurance,Claim Request,RESOLVED,High,20.96,44.9,
+TKT45338,23/02/2024 08:57,26/02/2024 12:07,AGT002,Rahul Verma,North,CreditCard,EMI query,Escalated,Medium,18.37,75.17,
+TKT32658,02-24-2024 19:08,02-27-2024 17:45,AGT009,Pooja Reddy,East,CREDIT CARD,Account Access,Closed,High,4.97,70.63,4
+TKT98055,08-06-2024 11:46,08-07-2024 15:42,AGT005,Meena Pillai,South,Insurance,account access,Resolved,High,4.35,27.94,5
+TKT11058,05-26-2024 11:28,05-29-2024 17:48,AGT005,Meena Pillai,SOUTH,INSURANCE,Billing Issue,Resolved,Medium,12.15,78.34,4
+TKT14379,2024-02-23 9:21:00,2024-02-25 4:07:12,AGT005,Meena Pillai,south,Personal Loan,Claim Request,closed,Low,4.5,42.77,5
+TKT22172,04/10/2024 20:48,06/10/2024 10:55,AGT002,Rahul Verma,North,CREDIT CARD,PAYMENT FAILURE,Resolveddd,Medium,5.01,38.12,5
+TKT52258,08-11-2024 8:40,08-13-2024 6:54,AGT004,Suresh Kumar,North,Personal Loan,Payment Failure,Escalated,High,18.6,46.24,3
+TKT20814,05-22-2024 12:08,05-23-2024 22:50,AGT003,Anita Das,South,insurance,CLAIM REQUEST,OPEN,Low,14.97,34.71,2
+TKT40827,2024-07-04 16:30:00,2024-07-08 22:15:00,AGT006,,North,PersonalLoan,Payment Failure,open,High,23,101.75,3
+TKT59534,10-16-2024 17:25,10-17-2024 21:12,AGT009,Pooja Reddy,East,Insurance,Claim Request,RESOLVED,High,4.24,27.79,5
+TKT23096,09-14-2024 12:34,10-24-2024 4:47,AGT002,Rahul Verma,North,Credit Card,Claim Request,Closed,Low,19.23,952.22,1
+TKT11213,12-12-2024 12:33,12-13-2024 8:37,AGT005,Meena Pillai,south,Credit Card,EMI Query,escalated,Medium,8.08,20.08,4
+TKT25264,15/08/2024 15:30,17/08/2024 06:49,AGT003,Anita Das,South,CREDIT CARD,Billing Issue,Closed,Medium,0.96,39.32,5
+TKT52558,2024-05-17 18:05:00,2024-05-18 12:02:36,AGT010,Amit Joshi,South,CreditCard,Claim Request,Open,Medium,13.81,17.96,5
+TKT49883,18/12/2024 17:50,21/12/2024 15:38,AGT002,Rahul Verma,North,credit card,EMI Query,Closed,Low,19.59,69.8,2
+TKT97278,12-02-2024 20:13,12-04-2024 15:12,AGT007,Neha Bose,East,INSURANCE,,Resolveddd,Medium,22.99,42.99,5
+TKT75099,2024-02-18 15:32:00,2024-02-19 13:24:48,AGT006,Arjun Singh,East,Credit Card,Billing Issue,RESOLVED,Medium,20.67,21.88,4
+TKT48811,07-27-2024 16:27,07-29-2024 9:27,AGT001,Priya Sharma,North,CreditCard,billing issue,closed,High,0.9,41.01,
+TKT34931,08-04-2024 10:17,08-11-2024 13:17,AGT009,Pooja Reddy,East,Credit Card,Billing Issue,open,Medium,11.37,171.01,4
+TKT80070,2024-09-03 18:39:00,2024-09-04 17:48:00,AGT008,Vikram Nair,North,INSURANCE,Billing Issue,Resolved,High,7.04,23.15,1
+TKT79420,10/07/2024 20:44,12/07/2024 5:48,AGT005,Meena Pillai,South,credit card,EMI Query,OPEN,Low,20.81,33.07,2
+TKT88602,2024-07-27 9:14:00,2024-07-29 7:27:48,AGT003,Anita Das,South,PERSONAL LOAN,Account Access,Escalated,High,5.51,46.23,4
+TKT20002,2024-07-11 13:40:00,2024-07-13 16:11:48,AGT004,Suresh Kumar,South,Insurance,,escalated,Low,21.85,50.53,5
+TKT59734,2024-01-13 18:59:00,2024-01-20 7:39:12,AGT010,Amit Joshi,South,Personal Loan,EMI query,Closed,Medium,13.74,156.67,3
+TKT10778,21/09/2024 14:03,,AGT004,Suresh Kumar,South,CREDIT CARD,billing issue,Resolveddd,Medium,8.27,,
+TKT52567,02-03-2024 15:07,02-10-2024 12:04,AGT008,Vikram Nair,North,insurance,Account Access,RESOLVED,Low,8.76,164.96,4
+TKT25448,03/04/2024 13:44,04/04/2024 12:23,AGT004,Suresh Kumar,South,insurance,Payment Failure,Escalated,High,,22.66,5
+TKT26777,05-17-2024 17:37,05-19-2024 15:41,AGT003,Anita Das,South,CreditCard,CLAIM REQUEST,Resolved,Medium,13.29,46.08,1
+TKT16943,2024-02-06 17:04:00,2024-02-08 2:53:48,AGT006,Arjun Singh,East,Credit Card,Claim Request,Escalated,High,12.95,33.83,
+TKT17194,2024-03-07 14:18:00,2024-04-09 8:31:12,AGT008,Vikram Nair,North,personal loan,fraud alert,Closed,Medium,5.63,786.22,4
+TKT34057,2024-02-03 15:04:00,2024-02-04 17:52:36,AGT008,Vikram Nair,North,insurance,Fraud Alert,Resolveddd,Low,22.91,26.81,2
+TKT98757,2024-09-13 16:51:00,2024-09-14 15:53:24,AGT010,Amit Joshi,South,PersonalLoan,KYC Update,Escalated,High,4.7,23.04,2
+TKT12126,2024-01-03 10:59:00,2024-01-06 1:52:24,AGT003,Anita Das,South,Insurance,kyc update,Open,Low,12.74,62.89,4
+TKT93432,02/07/2024 19:33,03/07/2024 20:06,AGT009,Pooja Reddy,East,Insurance,Payment Failure,Open,Low,12.96,24.55,3
+TKT95800,09-07-2024 19:41,09-08-2024 18:30,AGT006,,East,personal loan,,Resolved,Low,17.88,22.82,4
+TKT86807,2024-03-04 10:30:00,2024-03-10 10:57:00,AGT009,Pooja Reddy,East,PERSONAL LOAN,Account Access,Escalated,Low,20.49,144.45,3
+TKT61769,31/01/2024 17:56,01/03/2024 7:17,AGT002,Rahul Verma,EAST,PersonalLoan,policy renewal,escalated,Low,3.81,709.35,
+TKT88409,2024-07-14 19:16:00,2024-07-20 8:20:12,AGT009,Pooja Reddy,East,Insurance,Payment failure,Open,High,4.61,133.07,5
+TKT73771,2024-08-09 14:54:00,2024-08-17 17:04:48,AGT010,Amit Joshi,South,PersonalLoan,,Open,High,4.26,194.18,1
+TKT31207,10-25-2024 8:29,10-27-2024 3:02,AGT008,Vikram Nair,North,Personal Loan,Account Access,Escalated,High,11.4,42.56,5
+TKT23090,2024-10-11 14:54:00,2024-10-13 6:48:00,AGT005,Meena Pillai,South,PersonalLoan,PAYMENT FAILURE,CLOSED,Medium,9.45,39.9,1
+TKT68854,07-29-2024 18:08,07-31-2024 13:06,AGT003,,South,Insurance,Policy Renewal,Open,Medium,14.51,42.98,1
+TKT89638,2024-12-19 8:54:00,2024-12-25 5:33:00,AGT005,Meena Pillai,South,Insurance,KYC Update,Open,Medium,20.41,140.65,2
+TKT28289,2024-05-28 16:38:00,2024-05-31 18:03:12,AGT008,Vikram Nair,East,Credit Card,Fraud Alert,RESOLVED,Medium,87.19,73.42,1
+TKT81716,23/07/2024 12:11,17/08/2024 16:17,AGT010,Amit Joshi,South,PERSONAL LOAN,Payment Failure,escalated,Medium,6.14,604.11,2
+TKT21570,04-18-2024 18:49,04-21-2024 19:17,AGT001,Priya Sharma,North,personal loan,Account Access,Escalated,Low,92.13,72.47,4
+TKT60747,04-25-2024 10:21,04-29-2024 21:03,AGT001,Priya Sharma,North,insurance,Policy Renewal,Open,Medium,21.58,106.71,2
+TKT59823,07-05-2024 10:23,07-05-2024 22:53,AGT005,Meena Pillai,South,Credit Card,Fraud Alert,Closed,Medium,8.85,12.5,1
+TKT39145,2024-08-31 18:22:00,2024-09-01 13:52:00,AGT009,Pooja Reddy,East,personal loan,KYC update,Escalated,High,12.42,19.5,4
+TKT10975,11-05-2024 20:15,11-07-2024 5:12,AGT003,Anita Das,South,CREDIT CARD,CLAIM REQUEST,escalated,Low,12.86,32.95,2
+TKT64747,10-12-2024 8:23,10-13-2024 10:15,AGT004,Suresh Kumar,South,PERSONAL LOAN,fraud alert,Closed,,3.77,25.88,3
+TKT13032,2024-09-06 20:03:00,2024-09-08 7:46:48,AGT003,Anita Das,South,INSURANCE,CLAIM REQUEST,Escalated,High,20.04,35.73,1
+TKT41212,08/07/2024 9:47,09/07/2024 16:29,AGT005,Meena Pillai,South,personal loan,KYC update,Open,Low,12.88,30.7,
+TKT93641,07-14-2024 8:54,07-15-2024 10:39,AGT002,Rahul Verma,North,Credit Card,EMI query,Escalated,Low,8.39,25.75,2
+TKT92517,27/10/2024 18:52,28/10/2024 23:16,AGT010,Amit Joshi,South,PersonalLoan,Fraud Alert,Open,High,4.98,28.4,3
+TKT74920,2024-08-28 12:46:00,2024-08-31 17:41:12,AGT010,Amit Joshi,South,credit card,fraud alert,open,Low,16.39,76.92,5
+TKT72872,01-24-2024 20:42,01-26-2024 19:13,AGT010,Amit Joshi,South,Personal Loan,Account Access,escalated,Low,9.67,46.53,4
+TKT16925,03-10-2024 12:54,03-12-2024 2:06,AGT008,Vikram Nair,North,Personal Loan,Billing Issue,closed,High,20.82,37.21,3
+TKT61502,04-12-2024 17:34,04-19-2024 8:22,AGT006,Arjun Singh,Nrth,CreditCard,KYC Update,Closed,High,4.73,158.81,4
+TKT96332,19/07/2024 16:37,21/07/2024 09:24,AGT009,Pooja Reddy,East,INSURANCE,Claim Request,escalated,High,14.89,40.79,5
+TKT33582,12-10-2024 8:53,12-11-2024 3:24,AGT006,,East,PERSONAL LOAN,Fraud Alert,Resolved,High,2.1,18.53,1
+TKT27643,2024-09-12 18:01:00,2024-09-14 8:26:48,AGT001,Priya Sharma,North,,Claim Request,OPEN,Low,23.34,38.43,4
+TKT51839,24/03/2024 10:04,31/03/2024 21:14,AGT009,Pooja Reddy,East,insurance,Fraud Alert,open,Medium,18.37,179.17,2
+TKT11965,2024-01-07 14:13:00,2024-01-08 15:18:24,AGT007,Neha Bose,East,CreditCard,KYC Update,Resolved,Low,11.28,25.09,2
+TKT28519,04/03/2024 9:46,10/03/2024 11:58,AGT010,Amit Joshi,South,Insurance,CLAIM REQUEST,Open,Medium,21.11,146.21,1
+TKT56254,24/11/2024 19:48,26/11/2024 09:45,AGT001,Priya Sharma,North,Credit Card,EMI Query,Closed,Low,22.8,37.96,2
+TKT70632,06/11/2024 16:44,07/11/2024 10:23,AGT002,Rahul Verma,North,Insurance,Policy Renewal,Closed,High,13.63,17.65,2
+TKT44227,04-11-2024 9:27,04-13-2024 1:16,AGT003,Anita Das,South,credit card,Policy Renewal,RESOLVED,Medium,1.94,39.83,5
+TKT24900,05-16-2024 18:33,05-17-2024 16:42,AGT005,Meena Pillai,East,Personal Loan,Policy Renewal,Escalated,Low,17.46,22.15,5
+TKT76993,16/05/2024 08:27,21/05/2024 03:27,AGT010,Amit Joshi,South,credit card,Payment Failure,Escalated,High,15.26,115.01,2
+TKT33357,2024-02-26 15:06:00,2024-02-27 7:12:36,AGT010,Amit Joshi,South,Insurance,Payment failure,RESOLVED,Medium,4.56,16.11,4
+TKT21293,04-01-2024 8:09,04-02-2024 23:03,AGT010,Amit Joshi,South,Credit Card,Claim request,Open,High,16.83,38.9,5
+TKT25271,01-22-2024 11:55,01-26-2024 23:53,AGT003,Anita Das,South,Credit Card,Policy Renewal,Closed,Medium,23.77,107.98,
+TKT65344,27/03/2024 19:00,30/03/2024 20:21,AGT007,Neha Bose,Est,Credit Card,Policy Renewal,Resolved,Medium,1.97,73.36,3
+TKT28035,2024-03-12 20:45:00,2024-04-07 4:34:48,AGT003,,South,Insurance,Account access,OPEN,High,11.52,607.83,1
+TKT39678,19/09/2024 08:06,20/09/2024 03:55,AGT008,Vikram Nair,North,PersonalLoan,Account Access,Closed,High,12.53,19.82,
+TKT22672,2024-06-22 16:23:00,2024-06-23 12:53:00,AGT007,Neha Bose,East,INSURANCE,Claim Request,open,Medium,18.24,20.5,5
+TKT33597,02/11/2024 17:40,02/11/2024 23:28,AGT009,Pooja Reddy,East,Insurance,Claim request,Open,Low,0.94,5.8,4
+TKT14392,02-18-2024 16:42,02-20-2024 0:31,AGT004,Suresh Kumar,South,Insurance,Account access,CLOSED,High,23.58,31.82,
+TKT34954,2024-12-07 16:18:00,2024-12-08 23:10:48,AGT004,Suresh Kumar,South,CreditCard,KYC Update,Resolveddd,Medium,7.72,30.88,2
+TKT45615,08/09/2024 14:50,13/09/2024 20:28,AGT004,Suresh Kumar,South,Personal Loan,fraud alert,Open,Low,21.07,125.64,3
+TKT72086,2024-04-25 10:14:00,2024-04-26 11:48:12,AGT004,Suresh Kumar,South,Insurance,Billing Issue,Open,Low,10.45,25.57,
+TKT22190,2024-10-17 17:23:00,2024-10-23 16:08:00,AGT007,Neha Bose,East,insurance,EMI Query,OPEN,Low,20.69,142.75,5
+TKT55757,2024-05-19 12:36:00,2024-06-10 9:34:12,AGT008,Vikram Nair,North,Personal Loan,Claim Request,escalated,Low,15.54,524.97,1
+TKT93418,21/05/2024 09:21,21/05/2024 11:58,AGT001,Priya Sharma,North,Credit Card,Billing Issue,Open,Medium,1.2,2.63,3
+TKT89307,07/03/2024 11:54,09/03/2024 7:13,AGT003,Anita Das,SOUTH,Insurance,Policy Renewal,Escalated,Low,12.59,43.33,5
+TKT89220,24/01/2024 12:56,25/01/2024 18:38,AGT005,Meena Pillai,South,Credit Card,Claim request,OPEN,Low,10.57,29.7,
+TKT39669,19/07/2024 10:57,22/07/2024 11:48,AGT001,Priya Sharma,North,personal loan,Payment failure,RESOLVED,High,21.22,72.85,4
+TKT24545,06-13-2024 12:45,06-14-2024 22:10,AGT004,Suresh Kumar,South,Insurance,PAYMENT FAILURE,Escalated,Low,19.13,33.42,3
+TKT28526,09-26-2024 8:16,09-26-2024 15:58,AGT001,Priya Sharma,North,Credit Card,Policy Renewal,Escalated,Low,4.5,7.7,1
+TKT34958,02-20-2024 15:50,02-26-2024 16:05,AGT008,Vikram Nair,North,credit card,EMI query,Closed,Low,21.52,144.26,4
+TKT67667,07-22-2024 17:06,07-24-2024 5:15,AGT008,,North,CreditCard,Account Access,escalated,Low,14.86,36.16,
+TKT62581,06-10-2024 11:41,06-11-2024 5:38,AGT005,Meena Pillai,Nrth,INSURANCE,Policy Renewal,CLOSED,High,12.23,17.95,4
+TKT47988,2024-10-16 19:58:00,2024-10-21 21:17:48,AGT010,Amit Joshi,South,Credit Card,Account access,Resolveddd,Low,22.17,121.33,3
+TKT45851,2024-10-20 10:38:00,2024-10-23 1:44:00,AGT002,Rahul Verma,North,CreditCard,Policy Renewal,escalated,High,98.56,63.1,
+TKT80972,06-10-2024 15:57,06-12-2024 14:36,AGT001,Priya Sharma,North,PersonalLoan,Fraud Alert,Open,Low,23.66,46.65,1
+TKT40649,07/12/2024 20:52,08/12/2024 22:16,AGT006,Arjun Singh,East,insurance,EMI query,resolved,Low,17.3,25.41,
+TKT83783,01-09-2024 13:21,01-11-2024 4:12,AGT005,Meena Pillai,South,Insurance,CLAIM REQUEST,Open,Low,16.33,38.85,5
+TKT19295,03-15-2024 20:04,03-18-2024 21:56,AGT003,,South,PERSONAL LOAN,fraud alert,Closed,Medium,11.73,73.87,2
+TKT64889,2024-02-21 10:48:00,2024-02-22 15:51:00,AGT008,,North,Personal Loan,EMI Query,Escalated,High,5.56,29.05,
+TKT53717,01-14-2024 20:29,01-21-2024 19:03,AGT010,Amit Joshi,South,personal loan,Payment Failure,resolved,Low,5.58,166.58,
+TKT82127,05/09/2024 14:48,07/09/2024 8:21,AGT003,Anita Das,Sth,Insurance,account access,Escalated,High,13.69,41.55,5
+TKT74847,2024-05-19 9:36:00,2024-05-20 14:25:48,AGT010,Amit Joshi,South,Credit Card,CLAIM REQUEST,resolved,High,5.55,28.83,3
+TKT29344,2024-08-24 15:08:00,2024-08-25 21:08:36,AGT004,Suresh Kumar,South,Personal Loan,Billing issue,Open,Low,14.07,30.01,
+TKT25127,28/07/2024 13:05,29/07/2024 21:23,AGT004,Suresh Kumar,South,personal loan,Payment failure,closed,Low,8.77,32.3,2
+TKT43788,29/10/2024 10:02,30/10/2024 05:52,AGT005,Meena Pillai,South,Credit Card,Account Access,Resolved,High,8,19.84,3
+TKT23751,2024-03-01 12:07:00,2024-03-03 6:33:24,AGT009,Pooja Reddy,East,PersonalLoan,KYC update,Resolved,Medium,,42.44,
+TKT21970,2024-10-30 11:37:00,2024-10-31 14:46:00,AGT010,,South,Credit Card,KYC update,closed,Low,8.04,27.15,2
+TKT81819,10-23-2024 17:41,10-25-2024 8:51,AGT001,Priya Sharma,North,Credit Card,kyc update,resolved,Low,8.07,39.18,4
+TKT87823,2024-01-02 16:33:00,2024-01-03 11:18:36,AGT002,Rahul Verma,North,Credit Card,Account Access,open,High,13.94,18.76,4
+TKT88576,03-05-2024 14:00,03-07-2024 12:03,AGT002,Rahul Verma,North,PersonalLoan,Payment Failure,Escalated,Low,1.19,46.05,
+TKT11850,01-31-2024 14:36,03-10-2024 0:38,AGT010,Amit Joshi,South,INSURANCE,Account Access,Closed,Medium,6,922.04,
+TKT83912,14/06/2024 20:37,15/06/2024 09:49,AGT007,Neha Bose,East,CREDIT CARD,Claim request,Closed,High,3.77,13.2,4
+TKT69591,05-15-2024 10:28,05-16-2024 15:28,AGT010,Amit Joshi,South,CreditCard,Billing Issue,RESOLVED,Low,11.37,29,2
+TKT13841,27/01/2024 12:39,04/02/2024 12:29,AGT002,Rahul Verma,North,Credit Card,Policy Renewal,resolved,High,17.98,191.84,1
+TKT47178,2024-07-31 8:56:00,2024-08-01 5:09:48,AGT010,Amit Joshi,Est,CREDIT CARD,Account Access,Escalated,Low,,20.23,2
+TKT90683,20/03/2024 10:57,21/03/2024 08:52,AGT008,Vikram Nair,North,Personal Loan,fraud alert,Escalated,High,,21.92,5
+TKT74418,2024-01-13 16:20:00,2024-01-14 13:14:00,AGT001,Priya Sharma,North,Personal Loan,PAYMENT FAILURE,closed,,9.48,20.9,3
+TKT13278,2024-03-12 19:06:00,2024-03-17 11:48:36,AGT005,Meena Pillai,South,credit card,Fraud Alert,Resolved,High,16.4,112.71,2
+TKT61834,2024-12-05 19:14:00,2024-12-12 19:42:12,AGT001,Priya Sharma,North,Credit Card,EMI Query,Escalated,Low,2.16,168.47,
+TKT15528,19/03/2024 10:32,,AGT004,Suresh Kumar,South,Personal Loan,Policy Renewal,Resolved,High,8.01,,2
+TKT53618,04-24-2024 8:38,04-28-2024 2:16,AGT001,Priya Sharma,North,Credit Card,Policy Renewal,Resolved,Medium,18.76,89.64,2
+TKT57227,30/07/2024 13:48,04/08/2024 5:40,AGT006,Arjun Singh,East,insurance,account access,closed,High,2.14,111.87,2
+TKT49356,27/11/2024 09:43,28/11/2024 20:45,AGT001,Priya Sharma,SOUTH,Insurance,Claim request,closed,,19.3,35.04,2
+TKT46113,2024-09-15 14:11:00,2024-09-16 23:45:12,AGT010,Amit Joshi,South,PersonalLoan,Account Access,Resolved,High,,33.57,
+TKT77658,2024-08-17 14:27:00,2024-08-20 15:00:36,AGT005,Meena Pillai,South,insurance,EMI Query,Closed,Medium,94.99,72.56,1
+TKT39443,04/11/2024 17:55,06/11/2024 15:33,AGT009,Pooja Reddy,Est,Credit Card,kyc update,Escalated,Low,,45.64,5
+TKT12102,2024-06-21 11:43:00,2024-06-23 5:40:00,AGT007,Neha Bose,North,insurance,BILLING ISSUE,RESOLVED,Medium,16.22,41.95,3
+TKT71506,07/04/2024 8:00,08/04/2024 16:15,AGT004,Suresh Kumar,South,INSURANCE,policy renewal,Escalated,Low,20.75,32.25,3
+TKT19046,02/04/2024 20:08,04/04/2024 18:56,AGT008,Vikram Nair,East,,Policy Renewal,OPEN,High,18.5,46.8,
+TKT70338,06/05/2024 12:53,08/05/2024 4:09,AGT002,Rahul Verma,North,CreditCard,KYC update,Escalated,Low,16.5,39.27,3
+TKT99262,24/05/2024 10:01,25/05/2024 19:50,AGT007,Neha Bose,East,Personal Loan,billing issue,Escalated,,8.17,33.83,5
+TKT62789,21/07/2024 12:37,22/07/2024 18:22,AGT010,Amit Joshi,South,credit card,Payment Failure,closed,Low,12.22,29.76,1
+TKT78697,07-05-2024 18:02,07-07-2024 0:53,AGT004,Suresh Kumar,South,Insurance,BILLING ISSUE,open,Medium,9.86,30.86,5
+TKT20646,12-02-2024 10:19,12-08-2024 5:25,AGT003,Anita Das,South,credit card,fraud alert,Escalated,High,4.31,139.1,4
+TKT43408,12-15-2024 14:04,12-17-2024 10:46,AGT005,Meena Pillai,Est,CREDIT CARD,,Escalated,Medium,1.32,44.71,
+TKT78289,15/06/2024 18:28,16/06/2024 15:23,AGT001,Priya Sharma,North,Insurance,policy renewal,open,Low,5.99,20.93,5
+TKT98753,03-25-2024 15:22,03-30-2024 6:32,AGT001,Priya Sharma,North,personal loan,Account Access,Open,Low,17.48,111.17,5
+TKT74572,23/12/2024 18:09,31/12/2024 23:41,AGT002,Rahul Verma,North,INSURANCE,Account Access,OPEN,Medium,,197.54,4
+TKT28343,26/06/2024 08:06,28/06/2024 05:30,AGT002,Rahul Verma,North,Personal Loan,KYC Update,closed,Medium,10.77,45.41,2
+TKT37514,2024-01-03 14:14:00,2024-01-04 17:36:48,AGT008,Vikram Nair,North,insurance,Billing issue,Escalated,High,23.68,27.38,5
+TKT86829,06/04/2024 14:10,08/04/2024 4:17,AGT002,Rahul Verma,North,INSURANCE,Policy Renewal,Resolved,Low,20,38.12,1
+TKT98862,09-30-2024 15:27,10-01-2024 18:37,AGT005,Meena Pillai,South,credit card,Billing issue,Escalated,High,13.96,27.18,5
+TKT66904,14/07/2024 17:24,16/07/2024 00:00,AGT005,Meena Pillai,EAST,credit card,Fraud Alert,Escalated,Medium,8.6,30.61,3
+TKT39829,09/01/2024 19:04,,AGT007,Neha Bose,East,Insurance,Account Access,open,,2.93,,5
+TKT64038,21/04/2024 14:16,23/04/2024 12:26,AGT009,Pooja Reddy,East,personal loan,Account Access,Resolveddd,Medium,19.88,46.17,1
+TKT68058,01-18-2024 13:39,01-19-2024 9:28,AGT003,,East,CreditCard,KYC Update,Open,Medium,7.86,19.83,2
+TKT62157,01-21-2024 16:37,01-23-2024 0:31,AGT008,Vikram Nair,North,credit card,Payment Failure,Escalated,Low,13.06,31.91,3
+TKT39864,18/11/2024 12:25,20/11/2024 07:00,AGT007,Neha Bose,East,,policy renewal,CLOSED,Medium,22,42.59,
+TKT98276,2024-07-13 11:15:00,2024-07-21 0:24:36,AGT009,Pooja Reddy,East,CreditCard,billing issue,Open,High,11.32,181.16,5
+TKT64595,25/05/2024 09:19,27/05/2024 04:50,AGT005,Meena Pillai,Nrth,CREDIT CARD,KYC update,escalated,High,12.13,43.52,1
+TKT23005,02-23-2024 9:41,03-01-2024 3:55,AGT002,Rahul Verma,North,Insurance,Claim Request,escalated,High,0.89,162.24,4
+TKT30667,2024-09-15 10:04:00,2024-09-16 3:22:36,AGT004,,South,INSURANCE,Payment Failure,RESOLVED,Low,6.14,17.31,5
+TKT78736,06-09-2024 16:20,06-11-2024 11:47,AGT008,Vikram Nair,North,Personal Loan,Policy Renewal,open,Medium,18.73,43.46,1
+TKT43108,2024-12-02 10:57:00,2024-12-03 19:52:48,AGT010,Amit Joshi,South,CreditCard,Billing Issue,Open,Low,20.47,32.93,1
+TKT82845,2024-07-09 15:48:00,2024-07-10 7:17:24,AGT008,Vikram Nair,North,credit card,Claim Request,RESOLVED,Medium,2.31,15.49,
+TKT35200,06-01-2024 11:19,06-02-2024 20:04,AGT004,Suresh Kumar,South,INSURANCE,KYC Update,Closed,Medium,18.62,32.76,3
+TKT17398,10-21-2024 13:36,10-22-2024 9:39,AGT003,Anita Das,South,insurance,policy renewal,Escalated,Low,14.55,20.06,4
+TKT36385,06/08/2024 19:02,10/08/2024 8:54,AGT007,Neha Bose,East,insurance,Claim request,Resolved,Low,6.54,85.88,5
+TKT74722,2024-08-09 19:20:00,2024-08-12 1:57:48,AGT008,Vikram Nair,North,INSURANCE,billing issue,Closed,Medium,64.48,54.63,1
+TKT48759,08-11-2024 16:05,08-18-2024 20:54,AGT003,Anita Das,South,credit card,Fraud Alert,OPEN,Low,23.21,172.82,5
+TKT83512,2024-02-27 19:55:00,2024-03-02 15:49:00,AGT008,Vikram Nair,North,INSURANCE,Fraud Alert,Resolved,Low,3.98,91.9,1
+TKT40162,04-22-2024 18:12,04-24-2024 12:12,AGT010,Amit Joshi,South,Credit Card,KYC Update,Resolved,Medium,15.09,42,3
+TKT63264,01/05/2024 10:51,08/05/2024 3:04,AGT010,Amit Joshi,South,personal loan,KYC update,Resolveddd,High,19.55,160.22,1
+TKT92862,25/05/2024 18:05,27/05/2024 07:47,AGT010,Amit Joshi,South,CreditCard,Billing issue,resolved,High,22.16,37.7,1
+TKT96565,02-12-2024 11:23,02-14-2024 7:00,AGT005,Meena Pillai,EAST,personal loan,Account Access,Closed,Low,16.58,43.62,1
+TKT27892,07-31-2024 13:59,08-07-2024 4:36,AGT002,Rahul Verma,North,Insurance,Payment Failure,CLOSED,Medium,19.01,158.63,2
+TKT13742,2024-11-01 19:33:00,2024-11-02 15:19:12,AGT003,Anita Das,South,CREDIT CARD,PAYMENT FAILURE,Closed,High,5.16,19.77,4
+TKT81614,06-30-2024 11:43,07-02-2024 2:42,AGT002,Rahul Verma,North,,billing issue,Resolveddd,High,22.74,38.99,
+TKT23685,12/09/2024 14:26,14/09/2024 03:18,AGT002,Rahul Verma,North,credit card,Billing Issue,Open,Low,17.22,36.87,2
+TKT87894,01-24-2024 9:33,01-31-2024 5:04,AGT002,Rahul Verma,North,,Fraud Alert,escalated,Low,18.51,163.53,5
+TKT88632,2024-06-10 16:20:00,2024-06-11 21:59:00,AGT008,Vikram Nair,North,insurance,Policy Renewal,escalated,Medium,20.35,29.65,3
+TKT92927,15/06/2024 09:45,23/06/2024 02:24,AGT010,Amit Joshi,South,Personal Loan,,OPEN,High,21.27,184.65,4
+TKT74840,2024-11-11 18:22:00,2024-11-17 12:31:36,AGT010,Amit Joshi,South,PERSONAL LOAN,Billing issue,Closed,Medium,18.51,138.16,1
+TKT46040,2024-11-17 8:40:00,2024-11-25 5:40:36,AGT002,Rahul Verma,North,credit card,kyc update,Open,High,23.64,189.01,
+TKT68832,06-11-2024 10:54,06-15-2024 17:28,AGT003,,South,PERSONAL LOAN,Account Access,escalated,Low,18.47,102.58,1
+TKT12919,25/12/2024 20:22,27/12/2024 14:56,AGT002,Rahul Verma,North,CREDIT CARD,Account Access,Escalated,High,11.18,42.57,1
+TKT22062,20/07/2024 13:19,22/07/2024 10:52,AGT002,Rahul Verma,Sth,CreditCard,EMI Query,CLOSED,,20.89,45.56,3
+TKT80999,02/11/2024 20:04,04/11/2024 8:49,AGT005,Meena Pillai,South,Personal Loan,KYC update,Open,Medium,6.56,36.75,
+TKT46556,2024-08-04 9:04:00,2024-08-05 10:38:48,AGT007,Neha Bose,East,Credit Card,billing issue,Resolved,High,2.55,25.58,2
+TKT99048,03/04/2024 14:28,04/04/2024 23:47,AGT003,Anita Das,South,Insurance,Payment failure,Escalated,Low,23.69,33.33,3
+TKT22165,2024-02-11 18:07:00,2024-02-13 8:09:24,AGT009,Pooja Reddy,East,Credit Card,PAYMENT FAILURE,Escalated,Low,20.28,38.04,2
+TKT60867,2024-11-03 14:05:00,2024-11-04 21:10:24,AGT008,Vikram Nair,North,INSURANCE,Claim request,Open,Low,18.28,31.09,
+TKT35377,2024-09-17 12:22:00,2024-09-19 4:08:12,AGT010,Amit Joshi,South,CREDIT CARD,Policy Renewal,escalated,Low,10.39,39.77,
+TKT74711,21/08/2024 17:47,22/08/2024 13:42,AGT002,Rahul Verma,North,Credit Card,CLAIM REQUEST,Open,Low,7.83,19.92,5
+TKT62330,28/03/2024 17:55,02/04/2024 14:35,AGT009,Pooja Reddy,East,insurance,EMI query,OPEN,Low,8.82,116.68,4
+TKT92926,27/04/2024 19:37,29/04/2024 15:12,AGT010,Amit Joshi,South,Insurance,Policy Renewal,Escalated,Low,14.82,43.59,3
+TKT99422,2024-12-19 9:15:00,2024-12-21 6:19:12,AGT006,Arjun Singh,Nrth,CREDIT CARD,,CLOSED,High,14.08,45.07,5
+TKT60418,2024-07-13 10:42:00,2024-07-14 10:37:48,AGT008,Vikram Nair,South,INSURANCE,KYC update,RESOLVED,Low,10.63,23.93,
+TKT74662,11-12-2024 9:01,11-20-2024 16:02,AGT002,Rahul Verma,North,Insurance,Fraud Alert,resolved,Low,5.76,199.02,1
+TKT28049,2024-06-28 9:22:00,2024-08-08 21:35:48,AGT006,Arjun Singh,East,insurance,Account access,OPEN,High,1.4,996.23,2
+TKT75271,11-06-2024 12:12,11-08-2024 16:18,AGT002,Rahul Verma,NORTH,insurance,Fraud Alert,resolved,High,101.74,52.11,
+TKT20613,29/01/2024 12:17,05/02/2024 10:28,AGT006,Arjun Singh,East,insurance,Claim Request,OPEN,Low,119.15,166.19,1
+TKT49268,02/02/2024 10:30,05/02/2024 13:56,AGT007,Neha Bose,East,Credit Card,Payment failure,resolved,Medium,9.39,75.44,5
+TKT98930,2024-12-07 12:02:00,2024-12-10 19:54:12,AGT010,Amit Joshi,South,CREDIT CARD,kyc update,Resolved,Medium,5.68,79.87,1
+TKT89876,2024-02-02 13:32:00,2024-02-03 2:07:24,AGT006,,East,Insurance,policy renewal,RESOLVED,Medium,9.08,12.59,5
+TKT63841,2024-07-14 14:42:00,2024-07-22 17:23:24,AGT001,,North,INSURANCE,Account Access,Resolved,Medium,19.12,194.69,5
+TKT16265,07-07-2024 14:56,07-08-2024 8:34,AGT006,Arjun Singh,East,PERSONAL LOAN,KYC Update,Closed,Medium,9.9,17.64,5
+TKT92046,10-20-2024 20:24,10-22-2024 13:22,AGT007,Neha Bose,East,Insurance,Account access,OPEN,Low,20.94,40.97,3
+TKT27646,2024-01-09 17:12:00,2024-01-11 11:32:24,AGT003,Anita Das,South,Insurance,Fraud Alert,Escalated,Low,16.96,42.34,3
+TKT31842,2024-01-22 19:55:00,2024-01-24 13:53:48,AGT008,Vikram Nair,North,CreditCard,EMI Query,Open,High,21.92,41.98,5
+TKT28611,26/06/2024 20:52,30/06/2024 15:50,AGT008,Vikram Nair,North,Credit Card,,OPEN,Medium,7.91,90.98,4
+TKT32597,2024-01-26 19:36:00,2024-01-29 3:21:36,AGT009,Pooja Reddy,East,credit card,Fraud Alert,Resolved,High,13.59,55.76,5
+TKT39072,2024-03-02 20:53:00,2024-03-04 3:06:12,AGT004,Suresh Kumar,South,Personal Loan,billing issue,closed,Low,6.19,30.22,2
+TKT62452,2024-01-23 9:43:00,2024-01-24 13:16:36,AGT003,Anita Das,South,credit card,billing issue,Escalated,High,8.26,27.56,3
+TKT54967,03/07/2024 18:25,04/07/2024 8:28,AGT006,Arjun Singh,East,Insurance,Payment Failure,Resolved,Medium,9.39,14.06,2
+TKT53007,12-14-2024 11:45,12-15-2024 17:22,AGT009,,East,PersonalLoan,Billing Issue,CLOSED,,14.2,29.62,5
+TKT99817,2024-04-11 11:11:00,2024-04-12 19:03:48,AGT001,,North,personal loan,KYC Update,closed,Low,10.21,31.88,
+TKT11118,2024-06-26 20:25:00,2024-07-31 7:28:00,AGT005,Meena Pillai,South,personal loan,Fraud Alert,Open,High,22.73,827.05,2
+TKT14901,15/08/2024 16:01,19/08/2024 20:22,AGT004,Suresh Kumar,South,INSURANCE,EMI Query,Resolved,,19.28,100.36,1
+TKT35035,08-16-2024 8:51,08-19-2024 11:38,AGT006,Arjun Singh,East,Credit Card,EMI query,Escalated,High,11.94,74.79,5
+TKT33039,2024-03-06 17:47:00,2024-03-09 8:18:48,AGT004,Suresh Kumar,South,INSURANCE,EMI Query,Closed,Medium,23.77,62.53,1
+TKT75491,2024-04-05 9:00:00,2024-04-06 21:21:00,AGT009,Pooja Reddy,East,credit card,KYC Update,OPEN,Low,20.1,36.35,5
+TKT93277,2024-12-07 15:04:00,2024-12-09 0:32:48,AGT006,Arjun Singh,East,Insurance,Fraud Alert,RESOLVED,High,8.37,33.48,2
+TKT98299,07/02/2024 11:51,09/02/2024 7:15,AGT010,Amit Joshi,South,Personal Loan,Fraud Alert,Resolveddd,High,18.4,43.4,3
+TKT29975,2024-09-11 9:51:00,2024-09-12 23:42:00,AGT010,Amit Joshi,South,Personal Loan,CLAIM REQUEST,OPEN,High,0.85,37.85,3
+TKT30807,11-21-2024 18:54,11-23-2024 16:06,AGT002,Rahul Verma,North,personal loan,KYC Update,CLOSED,Medium,15.03,45.21,
+TKT69178,2024-04-24 11:21:00,2024-04-28 23:10:48,AGT001,Priya Sharma,North,Personal Loan,Billing Issue,closed,,5.69,107.83,2
+TKT22564,12-28-2024 14:56,12-29-2024 12:15,AGT005,,South,Insurance,EMI query,Resolved,Medium,6.42,21.32,5
+TKT67080,18/05/2024 17:51,20/05/2024 07:06,AGT003,Anita Das,South,Credit Card,KYC Update,Open,,22.11,37.26,3
+TKT34116,05-09-2024 11:07,05-11-2024 7:19,AGT004,Suresh Kumar,South,Personal Loan,Account access,RESOLVED,High,4.76,44.21,1
+TKT50698,2024-12-02 16:10:00,2024-12-08 4:14:48,AGT001,Priya Sharma,North,Insurance,,Resolveddd,High,9,132.08,2
+TKT69473,2024-04-28 9:46:00,2024-04-28 23:23:12,AGT005,Meena Pillai,South,Insurance,kyc update,resolved,,5.03,13.62,2
+TKT46429,23/12/2024 10:50,24/12/2024 22:17,AGT004,Suresh Kumar,South,Personal Loan,BILLING ISSUE,CLOSED,Low,20.98,35.46,1
+TKT96168,02-10-2024 12:22,02-17-2024 16:16,AGT003,Anita Das,South,Personal Loan,Billing issue,Escalated,Low,9.51,171.91,4
+TKT61023,07-25-2024 11:10,,AGT007,Neha Bose,EAST,CreditCard,,Escalated,Medium,4.97,,3
+TKT45291,03/01/2024 12:44,03/01/2024 21:09,AGT001,,North,insurance,Account access,OPEN,Low,4.91,8.42,4
+TKT69400,13/08/2024 09:47,15/08/2024 04:35,AGT010,Amit Joshi,South,PersonalLoan,Claim Request,Escalated,Medium,7.06,42.81,1
+TKT71833,10-21-2024 19:59,10-23-2024 5:10,AGT010,Amit Joshi,South,Personal Loan,Policy Renewal,Resolved,Low,12.41,33.19,2
+TKT64332,17/10/2024 11:26,19/10/2024 06:24,AGT009,Pooja Reddy,East,INSURANCE,EMI query,CLOSED,Medium,4.87,42.98,2
+TKT49412,29/04/2024 09:16,30/04/2024 17:23,AGT008,Vikram Nair,North,Personal Loan,Fraud Alert,Escalated,High,22.24,32.12,
+TKT69510,05-15-2024 20:50,05-17-2024 5:48,AGT002,Rahul Verma,North,CREDIT CARD,Payment Failure,resolved,Medium,15.19,32.97,3
+TKT60446,2024-08-29 14:25:00,2024-08-30 5:12:24,AGT002,Rahul Verma,North,Personal Loan,Payment Failure,OPEN,Medium,3.61,14.79,4
+TKT14239,16/12/2024 18:10,16/12/2024 23:24,AGT005,Meena Pillai,South,PERSONAL LOAN,kyc update,Closed,Low,3.95,5.24,
+TKT12841,11/03/2024 13:00,12/03/2024 21:49,AGT005,Meena Pillai,South,credit card,BILLING ISSUE,Open,Medium,23.03,32.83,2
+TKT34215,16/05/2024 17:36,08/06/2024 5:20,AGT001,Priya Sharma,North,Credit Card,CLAIM REQUEST,Open,Medium,14.89,539.74,2
+TKT29862,02-17-2024 19:14,02-18-2024 21:29,AGT008,Vikram Nair,Sth,INSURANCE,Claim request,escalated,Medium,21.28,26.26,5
+TKT95601,2024-02-26 15:22:00,2024-02-27 12:59:12,AGT003,Anita Das,South,Credit Card,Billing issue,Escalated,High,19,21.62,
+TKT14696,16/02/2024 20:38,18/02/2024 11:44,AGT009,Pooja Reddy,East,PERSONAL LOAN,billing issue,CLOSED,Low,23.13,39.1,1
+TKT35892,19/03/2024 14:07,23/03/2024 01:01,AGT002,Rahul Verma,North,personal loan,KYC Update,Closed,,103.4,82.91,2
+TKT38917,2024-02-15 11:49:00,2024-03-23 18:14:48,AGT008,Vikram Nair,North,,Policy Renewal,RESOLVED,Low,10.31,894.43,2
+TKT57379,03/02/2024 17:16,04/02/2024 22:22,AGT010,Amit Joshi,South,PERSONAL LOAN,Fraud Alert,Open,Low,17.59,29.11,4
+TKT46848,10/11/2024 18:19,11/11/2024 15:47,AGT006,Arjun Singh,East,insurance,billing issue,Closed,Medium,19.5,21.48,1
+TKT22648,04-15-2024 17:57,,AGT002,Rahul Verma,North,Personal Loan,EMI query,open,Low,5.2,,5
+TKT59832,03-04-2024 10:34,03-06-2024 0:22,AGT004,Suresh Kumar,South,Insurance,Payment Failure,escalated,Medium,11.23,37.8,1
+TKT18526,05-20-2024 11:54,05-21-2024 12:48,AGT001,Priya Sharma,North,Personal Loan,Policy Renewal,RESOLVED,Medium,16.43,24.91,
+TKT45501,2024-10-31 20:32:00,2024-11-01 11:38:00,AGT007,Neha Bose,East,PERSONAL LOAN,EMI Query,Resolved,Medium,9.48,15.1,5
+TKT11303,02-13-2024 13:20,02-14-2024 1:36,AGT009,Pooja Reddy,East,Credit Card,Billing Issue,escalated,Medium,9.94,12.28,5
+TKT21415,2024-04-02 13:30:00,2024-04-03 11:06:00,AGT008,Vikram Nair,North,personal loan,Billing issue,Open,Low,11.41,21.6,
+TKT48828,2024-05-04 18:41:00,2024-05-12 22:25:24,AGT002,Rahul Verma,North,Credit Card,fraud alert,closed,Medium,17.78,195.74,4
+TKT20341,06-02-2024 19:35,06-10-2024 19:44,AGT008,Vikram Nair,North,Personal Loan,EMI Query,Closed,High,1.07,192.15,
+TKT69637,05-15-2024 13:58,05-22-2024 7:46,AGT008,Vikram Nair,North,Personal Loan,Policy Renewal,Resolved,Medium,20.98,161.8,4
+TKT29221,10/03/2024 14:30,16/03/2024 23:24,AGT008,Vikram Nair,North,Personal Loan,Payment Failure,Resolveddd,Low,9.42,152.91,4
+TKT11862,2024-03-30 13:29:00,2024-03-31 7:36:12,AGT003,Anita Das,South,credit card,fraud alert,Closed,Medium,5.22,18.12,
+TKT85424,12-21-2024 11:21,12-23-2024 10:04,AGT003,Anita Das,South,Credit Card,policy renewal,Escalated,Low,12.95,46.72,3
+TKT93888,2024-12-05 8:31:00,2024-12-06 11:50:12,AGT005,Meena Pillai,South,Personal Loan,EMI Query,Open,Low,23.74,27.32,2
+TKT33809,11-26-2024 15:11,12-03-2024 15:03,AGT008,Vikram Nair,North,Credit Card,Payment Failure,Escalated,High,1.99,167.87,
+TKT82427,2024-06-10 19:24:00,2024-06-11 20:28:12,AGT008,Vikram Nair,North,INSURANCE,EMI Query,Resolved,High,13.43,25.07,2
+TKT26614,02-02-2024 15:28,02-07-2024 20:32,AGT007,Neha Bose,East,Credit Card,KYC Update,Resolved,Medium,18.78,125.08,2
+TKT66360,29/09/2024 17:41,03/10/2024 9:15,AGT010,Amit Joshi,South,Credit Card,Payment failure,Closed,Low,116.75,87.58,4
+TKT55688,2024-11-21 19:23:00,2024-11-22 20:18:48,AGT009,Pooja Reddy,East,Personal Loan,PAYMENT FAILURE,closed,Medium,16.87,24.93,4
+TKT70253,2024-05-19 13:28:00,2024-05-20 14:14:48,AGT004,Suresh Kumar,South,Personal Loan,,resolved,Medium,21.5,24.78,4
+TKT73254,17/06/2024 18:44,18/06/2024 09:21,AGT004,Suresh Kumar,South,Insurance,EMI query,Escalated,Medium,2.24,14.62,3
+TKT84599,21/09/2024 12:06,22/09/2024 01:56,AGT002,Rahul Verma,North,PersonalLoan,EMI Query,OPEN,High,3.27,13.84,1
+TKT45296,02/12/2024 13:57,10/12/2024 5:47,AGT001,Priya Sharma,North,Insurance,kyc update,Closed,High,0.6,183.84,5
+TKT71329,2024-03-22 13:32:00,2024-03-23 21:03:48,AGT008,Vikram Nair,North,credit card,EMI Query,escalated,Low,20.61,31.53,4
+TKT63841,02-27-2024 14:28,02-28-2024 23:09,AGT008,Vikram Nair,North,insurance,EMI Query,Resolveddd,Low,1.58,32.69,5
+TKT30577,2024-04-27 12:51:00,2024-04-28 4:30:36,AGT009,Pooja Reddy,East,Credit Card,,Closed,High,4.29,15.66,4
+TKT54521,12-24-2024 17:54,12-25-2024 21:01,AGT004,Suresh Kumar,South,personal loan,kyc update,Escalated,Low,5.57,27.13,5
+TKT29750,2024-06-08 20:51:00,,AGT001,Priya Sharma,North,CREDIT CARD,Policy Renewal,closed,High,12.21,,4
+TKT23145,03-13-2024 8:30,03-15-2024 2:50,AGT008,Vikram Nair,North,credit card,Fraud Alert,open,High,10.08,42.34,5
+TKT56123,2024-09-13 8:00:00,2024-09-14 21:22:12,AGT008,Vikram Nair,North,personal loan,Payment Failure,Closed,Medium,4.49,37.37,
+TKT64378,2024-09-22 10:47:00,2024-09-24 4:08:00,AGT003,Anita Das,South,personal loan,KYC Update,escalated,Low,19.52,41.35,1
+TKT65496,10-18-2024 14:54,10-19-2024 14:30,AGT005,Meena Pillai,South,Insurance,Account Access,Open,Medium,2.21,23.61,4
+TKT50481,2024-11-25 16:05:00,2024-11-26 21:28:24,AGT009,Pooja Reddy,East,Personal Loan,Billing Issue,Open,Medium,5.02,29.39,4
+TKT87373,25/01/2024 12:41,27/01/2024 01:00,AGT002,Rahul Verma,North,Personal Loan,Policy Renewal,Resolved,Low,21.63,36.32,3
+TKT86957,10/07/2024 14:55,12/07/2024 1:40,AGT009,Pooja Reddy,East,Credit Card,EMI Query,Escalated,High,22.26,34.75,1
+TKT58339,06/09/2024 10:17,07/09/2024 13:49,AGT002,Rahul Verma,North,Insurance,EMI query,Closed,Medium,7.92,27.54,3
+TKT64415,2024-08-12 11:59:00,2024-08-13 15:08:00,AGT003,Anita Das,South,CreditCard,Account Access,resolved,High,14.18,27.15,
+TKT46369,2024-02-02 10:33:00,2024-02-03 13:28:48,AGT002,Rahul Verma,North,Insurance,EMI Query,resolved,Medium,7.61,26.93,5
+TKT15544,09/06/2024 17:27,10/06/2024 9:05,AGT007,Neha Bose,north,Credit Card,CLAIM REQUEST,Resolveddd,High,13.97,15.64,2
+TKT31879,22/10/2024 08:23,23/10/2024 01:12,AGT002,Rahul Verma,North,CREDIT CARD,BILLING ISSUE,RESOLVED,High,7.92,16.83,
+TKT35212,2024-01-01 19:34:00,2024-01-03 15:20:12,AGT004,,South,Personal Loan,CLAIM REQUEST,RESOLVED,Medium,19.69,43.77,5
+TKT85885,2024-02-23 20:52:00,2024-02-25 5:54:24,AGT003,Anita Das,South,PERSONAL LOAN,BILLING ISSUE,Closed,Low,14.7,33.04,2
+TKT11617,2024-02-13 19:57:00,2024-02-15 8:46:12,AGT005,Meena Pillai,South,CREDIT CARD,kyc update,closed,High,13.65,36.82,4
+TKT72320,2024-01-27 10:32:00,2024-01-29 3:09:48,AGT001,Priya Sharma,North,Insurance,policy renewal,CLOSED,Medium,19.47,40.63,3
+TKT80937,19/07/2024 10:09,22/07/2024 05:03,AGT005,Meena Pillai,East,Credit Card,Billing issue,CLOSED,Medium,13.84,66.9,2
+TKT89576,04-18-2024 9:36,04-20-2024 7:46,AGT002,Rahul Verma,South,PERSONAL LOAN,fraud alert,escalated,Medium,7.3,46.18,2
+TKT37810,14/10/2024 12:45,16/10/2024 08:24,AGT009,Pooja Reddy,East,Insurance,EMI query,open,High,14.79,43.65,4
+TKT35391,16/12/2024 15:31,22/12/2024 17:53,AGT002,Rahul Verma,North,CreditCard,kyc update,Closed,High,4.64,146.37,4
+TKT12837,03-09-2024 17:20,03-10-2024 10:10,AGT002,Rahul Verma,North,PERSONAL LOAN,Claim request,Open,High,11.77,16.84,3
+TKT51652,2024-11-11 18:19:00,2024-11-13 16:06:24,AGT008,Vikram Nair,North,CREDIT CARD,Fraud Alert,CLOSED,Medium,16.8,45.79,2
+TKT89691,2024-09-07 19:00:00,2024-09-09 3:24:36,AGT001,Priya Sharma,North,INSURANCE,EMI Query,Resolved,Medium,16.63,32.41,1
+TKT68503,07-24-2024 18:03,07-26-2024 10:07,AGT010,Amit Joshi,South,INSURANCE,CLAIM REQUEST,Closed,Medium,20.43,40.07,4
+TKT78224,17/02/2024 17:03,19/02/2024 07:45,AGT002,Rahul Verma,North,Insurance,Policy Renewal,Open,High,13.96,38.7,5
+TKT77017,03-20-2024 16:20,03-21-2024 5:24,AGT004,Suresh Kumar,South,personal loan,billing issue,Resolveddd,High,9.68,13.08,1
+TKT20956,2024-12-12 18:05:00,2024-12-14 6:03:48,AGT009,Pooja Reddy,East,INSURANCE,Policy Renewal,CLOSED,Medium,23.43,35.98,4
+TKT32391,08/01/2024 15:51,14/01/2024 13:44,AGT002,Rahul Verma,North,INSURANCE,policy renewal,OPEN,Medium,13.39,141.89,2
+TKT24765,2024-08-10 16:26:00,2024-09-16 10:13:24,AGT006,Arjun Singh,East,INSURANCE,KYC Update,CLOSED,Medium,13.09,881.79,4
+TKT43679,2024-08-08 12:57:00,2024-08-10 0:18:36,AGT007,Neha Bose,East,Credit Card,EMI query,Open,Low,8.52,35.36,5
+TKT84705,2024-05-07 16:23:00,2024-05-09 13:51:12,AGT008,Vikram Nair,North,Personal Loan,policy renewal,Closed,Medium,7,45.47,2
+TKT24354,08/11/2024 12:33,,AGT004,Suresh Kumar,South,Insurance,KYC Update,escalated,Low,0.81,,1
+TKT25071,12-14-2024 13:26,12-14-2024 16:39,AGT009,Pooja Reddy,East,Insurance,Policy Renewal,Resolveddd,Medium,1.19,3.22,
+TKT86704,03-03-2024 13:30,03-04-2024 1:12,AGT007,Neha Bose,East,CreditCard,CLAIM REQUEST,resolved,High,6.3,11.71,1
+TKT36770,08-03-2024 9:23,08-09-2024 8:53,AGT001,Priya Sharma,North,Credit Card,CLAIM REQUEST,RESOLVED,Medium,11.43,143.51,
+TKT55095,2024-10-25 8:42:00,2024-10-26 5:28:12,AGT004,Suresh Kumar,South,Insurance,Account Access,Closed,Medium,17.57,20.77,4
+TKT88411,2024-07-21 18:23:00,2024-07-24 22:28:24,AGT003,Anita Das,South,Insurance,EMI query,Open,Medium,3.61,76.09,3
+TKT51182,2024-03-28 11:22:00,2024-03-29 21:31:00,AGT006,Arjun Singh,East,Credit Card,account access,Resolveddd,High,22.02,34.15,3
+TKT97364,05-09-2024 8:01,05-10-2024 18:31,AGT008,Vikram Nair,North,INSURANCE,,Open,Medium,18.1,34.5,4
+TKT64125,2024-08-13 19:40:00,2024-08-14 12:05:12,AGT007,Neha Bose,East,credit card,Claim Request,CLOSED,Medium,4.43,16.42,
+TKT25855,09-15-2024 14:07,09-15-2024 23:04,AGT001,Priya Sharma,North,Credit Card,KYC Update,open,Medium,6.83,8.96,2
+TKT77127,31/01/2024 12:37,01/02/2024 13:56,AGT007,,East,personal loan,KYC update,Open,Medium,7.24,25.33,
+TKT51500,23/07/2024 11:25,24/07/2024 19:42,AGT007,Neha Bose,East,PersonalLoan,Account Access,Open,High,1.39,32.29,
+TKT43493,01/06/2024 11:55,03/06/2024 5:11,AGT005,Meena Pillai,South,CREDIT CARD,Account Access,Closed,Medium,21.42,41.27,5
+TKT74450,01/04/2024 18:31,02/04/2024 3:07,AGT004,Suresh Kumar,South,,Account Access,Resolved,,3.05,8.61,
+TKT67310,21/12/2024 20:16,22/12/2024 14:37,AGT009,Pooja Reddy,East,,Policy Renewal,Open,,16.61,18.35,1
+TKT65010,09-17-2024 9:16,09-18-2024 19:22,AGT004,Suresh Kumar,South,personal loan,Billing Issue,Closed,Medium,15.39,34.11,1
+TKT33684,13/04/2024 08:39,15/04/2024 22:28,AGT002,Rahul Verma,North,credit card,,Closed,High,83.83,61.83,2
+TKT47243,12-02-2024 17:55,12-03-2024 11:58,AGT005,Meena Pillai,South,Insurance,Payment Failure,Escalated,Medium,4.03,18.05,1
+TKT41097,22/06/2024 10:44,23/06/2024 21:20,AGT001,Priya Sharma,south,Credit Card,Payment Failure,Resolved,Low,5.2,34.6,3
+TKT27195,02-09-2024 9:32,03-18-2024 12:39,AGT005,Meena Pillai,South,Credit Card,,escalated,Medium,17.47,915.13,3
+TKT33632,09-27-2024 13:05,09-28-2024 15:50,AGT004,Suresh Kumar,South,PERSONAL LOAN,kyc update,Closed,High,18.47,26.76,
+TKT81654,2024-05-28 12:42:00,2024-05-29 9:12:00,AGT004,Suresh Kumar,South,PersonalLoan,Policy Renewal,RESOLVED,Medium,2.85,20.5,3
+TKT29871,2024-10-21 8:32:00,2024-10-22 23:40:24,AGT006,Arjun Singh,East,insurance,BILLING ISSUE,Closed,Low,17.13,39.14,3
+TKT92998,09/04/2024 20:22,10/04/2024 9:56,AGT002,Rahul Verma,North,credit card,Payment Failure,Open,Medium,8.75,13.58,3
+TKT60494,2024-05-30 17:36:00,2024-05-31 23:29:24,AGT002,Rahul Verma,North,INSURANCE,BILLING ISSUE,open,High,23.31,29.89,4
+TKT63033,06-18-2024 14:56,06-19-2024 16:24,AGT010,Amit Joshi,South,Insurance,Policy Renewal,RESOLVED,Low,3.39,25.48,1
+TKT19404,02-10-2024 8:58,02-11-2024 13:00,AGT004,Suresh Kumar,South,personal loan,,Open,Medium,15.47,28.04,4
+TKT67503,2024-04-24 13:55:00,2024-04-26 4:06:24,AGT007,Neha Bose,NORTH,credit card,Payment failure,Resolveddd,,16.55,38.19,
+TKT23894,21/03/2024 08:09,,AGT010,Amit Joshi,Nrth,credit card,Claim request,escalated,Medium,9.08,,5
+TKT25951,09-07-2024 19:38,09-08-2024 8:55,AGT003,Anita Das,South,PersonalLoan,KYC Update,Closed,High,8.92,13.29,
+TKT63729,11-12-2024 19:10,11-20-2024 12:17,AGT009,Pooja Reddy,East,Credit Card,Policy Renewal,Resolveddd,Low,17.52,185.13,5
+TKT27495,2024-11-15 20:14:00,2024-11-18 15:44:00,AGT009,Pooja Reddy,East,Credit Card,Fraud Alert,escalated,Medium,71.77,67.5,4
+TKT92173,11-18-2024 20:13,11-24-2024 6:25,AGT002,Rahul Verma,North,Insurance,account access,Resolveddd,Low,20.83,130.2,3
+TKT23486,10-27-2024 12:10,10-28-2024 19:41,AGT010,Amit Joshi,South,PERSONAL LOAN,Account Access,closed,Low,19.16,31.53,4
+TKT28623,01-13-2024 10:50,01-13-2024 20:18,AGT007,Neha Bose,East,credit card,Payment failure,Resolved,Medium,7.94,9.47,3
+TKT47904,2024-06-26 11:59:00,2024-06-26 23:00:12,AGT003,Anita Das,South,CREDIT CARD,Payment Failure,Closed,Low,1.76,11.02,
+TKT27143,07-12-2024 19:23,07-14-2024 9:22,AGT004,Suresh Kumar,South,Credit Card,KYC update,Escalated,High,7.97,37.99,4
+TKT99872,09-04-2024 9:43,09-05-2024 5:48,AGT003,Anita Das,South,Personal Loan,Payment Failure,Escalated,Medium,15.6,20.09,
+TKT54597,21/06/2024 09:05,21/06/2024 21:06,AGT005,Meena Pillai,South,Insurance,Policy Renewal,Escalated,Low,9.43,12.02,2
+TKT45291,10-22-2024 13:02,10-24-2024 0:21,AGT007,Neha Bose,East,credit card,KYC Update,Resolved,Low,23.49,35.33,3
+TKT61948,05-26-2024 16:57,05-27-2024 7:12,AGT008,Vikram Nair,North,PERSONAL LOAN,KYC Update,Resolved,High,2.07,14.25,1
+TKT22441,12-05-2024 9:57,12-07-2024 1:46,AGT009,Pooja Reddy,East,PersonalLoan,Fraud Alert,closed,High,23.25,39.83,4
+TKT10421,13/09/2024 13:40,14/09/2024 21:37,AGT010,Amit Joshi,South,CREDIT CARD,Billing Issue,Open,Low,21.31,31.96,
+TKT37694,28/06/2024 09:29,28/06/2024 23:30,AGT004,Suresh Kumar,South,Credit Card,Policy Renewal,closed,Medium,7.65,14.02,3
+TKT73324,2024-01-02 19:40:00,2024-01-04 7:11:48,AGT005,Meena Pillai,South,Personal Loan,Claim Request,Escalated,Low,13.87,35.53,
+TKT49077,08/11/2024 16:35,10/11/2024 1:38,AGT010,Amit Joshi,South,CreditCard,Account access,open,Low,15.29,33.05,3
+TKT16964,09-29-2024 9:17,,AGT001,Priya Sharma,North,INSURANCE,Claim request,open,Medium,5.82,,3
+TKT18456,07-19-2024 12:53,07-20-2024 11:27,AGT001,Priya Sharma,North,personal loan,Claim Request,open,Medium,12.92,22.57,
+TKT40818,2024-04-17 11:29:00,2024-04-23 5:13:24,AGT005,Meena Pillai,South,Credit Card,Claim request,Open,Medium,3.99,137.74,5
+TKT70338,19/11/2024 15:35,20/11/2024 23:02,AGT010,Amit Joshi,South,PersonalLoan,billing issue,OPEN,,23.65,31.45,5
+TKT54939,09/03/2024 10:26,10/03/2024 19:15,AGT005,Meena Pillai,South,insurance,Fraud Alert,Escalated,Medium,14.66,32.83,1
+TKT42818,26/12/2024 12:55,27/12/2024 19:44,AGT005,Meena Pillai,South,Insurance,Payment Failure,open,Low,,30.82,1
+TKT49870,11-22-2024 10:21,11-24-2024 3:49,AGT008,Vikram Nair,North,insurance,Payment failure,Closed,High,9.85,41.48,
+TKT51777,02/06/2024 14:11,04/06/2024 5:03,AGT007,Neha Bose,East,Credit Card,policy renewal,Open,High,18.23,38.88,1
+TKT20553,04/07/2024 8:02,05/07/2024 15:29,AGT003,,South,credit card,fraud alert,Escalated,Medium,10.2,31.45,3
+TKT82845,11/07/2024 14:45,13/07/2024 01:22,AGT010,Amit Joshi,South,Insurance,Billing issue,CLOSED,High,5.16,34.63,4
+TKT63218,2024-12-22 11:19:00,2024-12-24 3:14:12,AGT008,,North,PersonalLoan,Policy Renewal,Closed,Low,16.57,39.92,1
+TKT67978,12-29-2024 14:16,01-05-2025 17:49,AGT010,Amit Joshi,South,Personal Loan,Billing issue,Closed,Low,17.7,171.56,3
+TKT18383,2024-02-27 12:46:00,2024-02-29 1:32:12,AGT003,Anita Das,South,CreditCard,Claim request,CLOSED,Low,11.91,36.77,
+TKT88673,2024-12-27 12:41:00,2024-12-29 17:10:24,AGT001,Priya Sharma,North,CREDIT CARD,Account Access,Closed,Medium,,52.49,5
+TKT45513,02/05/2024 10:39,03/05/2024 6:58,AGT009,Pooja Reddy,East,PersonalLoan,Billing Issue,open,High,16.75,20.32,2
+TKT75967,2024-08-20 16:45:00,2024-08-22 0:45:36,AGT003,,South,Personal Loan,Policy Renewal,Open,Low,19.99,32.01,4
+TKT29956,11-14-2024 12:17,11-17-2024 19:43,AGT009,Pooja Reddy,Sth,PERSONAL LOAN,fraud alert,escalated,High,13.57,79.44,1
+TKT61417,08-30-2024 13:48,09-01-2024 10:00,AGT006,Arjun Singh,East,Insurance,account access,Escalated,High,9.7,44.21,2
+TKT25993,07-30-2024 16:13,08-06-2024 7:24,AGT005,Meena Pillai,South,Insurance,CLAIM REQUEST,CLOSED,Medium,16.85,159.19,4
+TKT22766,2024-12-19 13:55:00,2024-12-19 19:11:12,AGT005,Meena Pillai,South,insurance,Claim request,open,Medium,1.93,5.27,
+TKT47469,2024-05-10 10:37:00,2024-05-10 20:08:12,AGT002,,North,,Account Access,Resolved,Low,1.94,9.52,5
+TKT65496,2024-07-04 12:11:00,2024-07-06 11:11:00,AGT009,Pooja Reddy,East,CREDIT CARD,Account Access,Escalated,High,22.85,47,1
+TKT96755,04-26-2024 11:11,04-27-2024 16:53,AGT005,Meena Pillai,South,INSURANCE,Fraud Alert,Closed,High,7.55,29.7,1
+TKT30058,29/07/2024 09:33,29/07/2024 20:34,AGT005,Meena Pillai,South,personal loan,account access,RESOLVED,High,9.05,11.02,2
+TKT57423,07-31-2024 17:35,08-03-2024 14:44,AGT006,Arjun Singh,East,credit card,Claim Request,Closed,High,78.27,69.16,4
+TKT74656,2024-09-25 17:32:00,2024-09-26 19:27:12,AGT006,Arjun Singh,EAST,credit card,Policy Renewal,Escalated,Low,20.34,25.92,3
+TKT32692,05-22-2024 17:32,05-23-2024 9:36,AGT009,Pooja Reddy,East,CREDIT CARD,Claim request,Closed,Medium,11.18,16.08,
+TKT80843,12-25-2024 12:46,12-26-2024 17:53,AGT007,Neha Bose,East,Insurance,Payment failure,Closed,High,,29.13,5
+TKT25615,2024-07-11 15:29:00,2024-07-13 9:20:00,AGT007,Neha Bose,East,PersonalLoan,PAYMENT FAILURE,Closed,High,1.35,41.85,1
+TKT79932,2024-07-21 18:37:00,2024-07-24 22:46:00,AGT002,Rahul Verma,North,credit card,Billing Issue,resolved,Low,17.24,76.15,4
+TKT16155,2024-09-29 15:20:00,,AGT005,Meena Pillai,South,insurance,Policy Renewal,open,High,0.62,,3
+TKT68648,10/11/2024 20:47,12/11/2024 19:18,AGT005,Meena Pillai,South,PersonalLoan,Fraud Alert,Escalated,Low,17.68,46.53,1
+TKT99699,2024-12-11 16:32:00,2024-12-12 18:06:48,AGT002,Rahul Verma,North,Insurance,policy renewal,Open,Medium,10.26,25.58,1
+TKT41506,10/08/2024 14:20,11/08/2024 18:47,AGT003,Anita Das,South,insurance,,closed,High,20.71,28.46,1
+TKT22169,04-02-2024 11:58,04-09-2024 3:35,AGT007,Neha Bose,SOUTH,Insurance,,Closed,High,14.31,159.62,2
+TKT79177,09/08/2024 10:09,16/08/2024 03:25,AGT007,Neha Bose,East,insurance,,Escalated,,52.75,161.27,4
+TKT25180,02-28-2024 13:44,03-01-2024 7:49,AGT003,Anita Das,South,personal loan,Billing issue,Escalated,High,9.86,42.09,4
+TKT61773,09/09/2024 18:14,11/09/2024 11:35,AGT010,Amit Joshi,South,INSURANCE,Account Access,Closed,High,15.73,41.36,3
+TKT58624,2024-07-08 12:27:00,2024-07-09 0:38:24,AGT001,Priya Sharma,North,Insurance,Payment Failure,closed,Low,3,12.19,1
+TKT90711,08/10/2024 13:06,10/10/2024 3:24,AGT010,Amit Joshi,South,Credit Card,,Resolveddd,High,16.92,38.3,4
+TKT61216,2024-09-08 15:35:00,2024-09-09 9:33:12,AGT010,Amit Joshi,South,Credit Card,Billing Issue,Escalated,Medium,14.52,17.97,3
+TKT78733,07-07-2024 16:00,07-08-2024 2:07,AGT002,Rahul Verma,North,PersonalLoan,Account Access,open,High,4.54,10.13,4
+TKT99256,07-20-2024 20:10,07-26-2024 2:44,AGT004,Suresh Kumar,South,Insurance,KYC Update,Closed,High,18.53,126.57,5
+TKT30702,14/05/2024 20:05,16/05/2024 22:20,AGT003,Anita Das,South,credit card,EMI query,resolved,Medium,63.58,50.26,2
+TKT82129,2024-04-18 10:25:00,2024-04-22 4:34:36,AGT002,Rahul Verma,North,CreditCard,Policy Renewal,Escalated,Medium,12.3,90.16,1
+TKT43277,2024-12-29 20:17:00,2024-12-30 19:56:36,AGT006,,East,Personal Loan,CLAIM REQUEST,Escalated,Medium,17.97,23.66,2
+TKT99737,09-29-2024 20:17,10-03-2024 17:00,AGT005,,South,Personal Loan,,closed,Medium,10.2,92.73,1
+TKT59691,2024-08-13 9:13:00,2024-08-14 9:03:24,AGT007,Neha Bose,East,Insurance,Billing issue,escalated,High,16.72,23.84,2
+TKT37619,05-13-2024 8:59,05-16-2024 7:05,AGT005,Meena Pillai,South,PERSONAL LOAN,Policy Renewal,RESOLVED,Low,3.21,70.11,2
+TKT47023,2024-05-01 18:31:00,2024-05-03 15:00:24,AGT010,Amit Joshi,South,Personal Loan,EMI Query,OPEN,Low,14.9,44.49,3
+TKT71781,02-10-2024 17:39,02-11-2024 7:55,AGT001,Priya Sharma,North,PersonalLoan,Policy Renewal,Resolved,High,5.63,14.27,2
+TKT13875,2024-10-26 14:45:00,2024-10-27 23:22:48,AGT010,Amit Joshi,South,Insurance,policy renewal,Closed,High,19.75,32.63,
+TKT39961,2024-02-20 17:35:00,,AGT010,Amit Joshi,South,Insurance,policy renewal,Resolved,Medium,6.29,,5
+TKT33451,05/01/2024 13:54,07/01/2024 8:32,AGT003,Anita Das,South,credit card,BILLING ISSUE,open,High,4.54,42.64,
+TKT28035,15/09/2024 19:30,16/09/2024 12:16,AGT002,Rahul Verma,North,PersonalLoan,Fraud Alert,Open,High,9.11,16.78,1
+TKT91619,03/08/2024 15:18,05/08/2024 7:11,AGT005,Meena Pillai,South,personal loan,Fraud Alert,RESOLVED,High,22.31,39.89,2
+TKT29335,2024-12-30 9:42:00,2024-12-31 11:57:00,AGT004,Suresh Kumar,South,CREDIT CARD,Claim request,Escalated,High,14.62,26.25,1
+TKT18691,06-13-2024 15:38,06-15-2024 4:08,AGT006,Arjun Singh,East,personal loan,Policy Renewal,OPEN,Low,1.86,36.5,2
+TKT85372,29/05/2024 14:00,30/05/2024 08:36,AGT004,Suresh Kumar,South,Credit Card,BILLING ISSUE,Closed,Low,14.95,18.61,1
+TKT26721,20/03/2024 18:08,22/03/2024 01:55,AGT005,Meena Pillai,EAST,insurance,Policy Renewal,closed,Medium,3.85,31.79,2
+TKT37444,02-15-2024 10:39,02-15-2024 22:30,AGT003,,South,CREDIT CARD,Billing issue,Open,Low,10.69,11.85,3
+TKT48448,06/02/2024 17:37,13/02/2024 00:11,AGT003,,South,Personal Loan,EMI query,Escalated,Medium,12.84,150.57,2
+TKT95175,12-11-2024 16:24,12-13-2024 4:48,AGT002,Rahul Verma,North,credit card,KYC update,Resolveddd,High,22.92,36.41,1
+TKT89036,19/07/2024 14:13,20/07/2024 21:38,AGT010,,South,INSURANCE,account access,Resolved,High,22.79,31.42,2
+TKT63368,07-10-2024 8:32,07-12-2024 1:38,AGT008,,North,Insurance,Payment failure,Open,High,19.1,41.1,1
+TKT30749,31/08/2024 19:28,02/09/2024 6:49,AGT010,,South,personal loan,billing issue,Escalated,Low,16.32,35.35,3
+TKT19813,05/05/2024 13:48,09/05/2024 11:46,AGT001,Priya Sharma,South,Credit Card,fraud alert,Resolved,Medium,5.22,93.98,4
+TKT21395,06-09-2024 9:40,06-09-2024 15:32,AGT005,Meena Pillai,South,,Claim Request,closed,Medium,2.37,5.87,1
+TKT32975,12-11-2024 16:59,12-13-2024 23:54,AGT002,Rahul Verma,North,credit card,Claim Request,Open,High,63.98,54.92,4
+TKT53864,10-13-2024 16:59,10-15-2024 7:30,AGT005,Meena Pillai,South,Credit Card,PAYMENT FAILURE,escalated,Low,19.54,38.52,2
+TKT16045,2024-07-10 17:46:00,2024-07-10 22:57:24,AGT004,Suresh Kumar,South,INSURANCE,Account access,Escalated,High,3.42,5.19,5
+TKT32091,2024-11-26 16:38:00,2024-12-01 3:14:00,AGT004,Suresh Kumar,South,Credit Card,Payment Failure,RESOLVED,High,12.98,106.6,4
+TKT69099,2024-05-18 14:16:00,2024-05-18 23:53:48,AGT005,Meena Pillai,South,Credit Card,EMI Query,closed,Low,0.9,9.63,5
+TKT36702,08-01-2024 10:12,08-03-2024 2:34,AGT004,Suresh Kumar,South,Insurance,policy renewal,Resolved,Low,1.8,40.37,5
+TKT87474,02-23-2024 20:52,02-25-2024 5:59,AGT007,Neha Bose,East,Personal Loan,Account Access,Resolved,High,17.15,33.12,4
+TKT36143,2024-11-26 8:58:00,2024-11-28 3:51:24,AGT005,Meena Pillai,South,CreditCard,Payment Failure,Closed,High,,42.89,
+TKT79712,07-31-2024 12:30,08-01-2024 16:00,AGT007,,East,Insurance,billing issue,closed,High,1.14,27.5,1
+TKT57333,05-15-2024 10:37,05-16-2024 14:32,AGT007,Neha Bose,East,Insurance,BILLING ISSUE,open,High,22.58,27.92,5
+TKT62250,03-13-2024 19:01,03-14-2024 18:05,AGT005,Meena Pillai,South,insurance,kyc update,OPEN,High,21.42,23.07,3
+TKT35115,2024-07-17 18:31:00,2024-07-19 4:27:24,AGT002,Rahul Verma,Sth,credit card,Claim Request,Closed,Medium,12.86,33.94,1
+TKT16505,2024-07-12 20:01:00,2024-07-13 12:56:48,AGT002,Rahul Verma,North,Personal Loan,Policy Renewal,Open,Low,8.01,16.93,2
+TKT49375,31/05/2024 17:03,01/06/2024 20:56,AGT004,Suresh Kumar,South,INSURANCE,EMI query,Resolved,High,13.45,27.89,3
+TKT11801,10-09-2024 13:22,10-11-2024 6:48,AGT006,Arjun Singh,East,personal loan,BILLING ISSUE,Closed,Low,22,41.44,4
+TKT60298,2024-01-18 11:19:00,2024-01-19 22:52:00,AGT005,Meena Pillai,South,Insurance,CLAIM REQUEST,open,High,22.76,35.55,5
+TKT20001,03-02-2024 16:29,03-05-2024 1:32,AGT001,Priya Sharma,North,Insurance,Account Access,Resolveddd,Medium,98.18,57.05,3
+TKT66112,02-22-2024 17:16,,AGT010,Amit Joshi,South,CREDIT CARD,Policy Renewal,Open,High,13.63,,4
+TKT67372,02-17-2024 13:52,02-19-2024 6:43,AGT010,Amit Joshi,South,PersonalLoan,Payment Failure,Open,High,8.55,40.85,5
+TKT14018,04-20-2024 14:26,04-22-2024 11:23,AGT002,Rahul Verma,North,Credit Card,Payment failure,Resolved,Medium,11.16,44.96,1
+TKT73068,03/07/2024 14:24,05/07/2024 3:26,AGT002,Rahul Verma,North,CreditCard,Policy Renewal,Escalated,Low,4.44,37.04,1
+TKT43730,2024-08-14 11:20:00,2024-08-15 1:15:12,AGT010,Amit Joshi,South,Insurance,EMI Query,Closed,Medium,6.82,13.92,1
+TKT33368,23/12/2024 08:58,,AGT009,Pooja Reddy,East,credit card,Claim request,Resolved,Medium,5.54,,2
+TKT29726,11-17-2024 8:18,11-18-2024 10:35,AGT004,Suresh Kumar,South,Insurance,KYC update,Resolved,High,10.29,26.29,5
+TKT94657,08-20-2024 10:35,08-25-2024 13:27,AGT006,Arjun Singh,East,INSURANCE,BILLING ISSUE,Resolved,Low,15.65,122.88,2
+TKT45312,06-13-2024 13:42,06-19-2024 5:48,AGT009,Pooja Reddy,East,Credit Card,BILLING ISSUE,Resolveddd,High,1.65,136.1,5
+TKT30052,2024-09-06 15:56:00,2024-09-08 22:36:12,AGT002,Rahul Verma,North,Personal Loan,Payment failure,Escalated,High,7.22,54.67,2
+TKT66648,11-29-2024 20:54,12-07-2024 15:30,AGT003,Anita Das,South,CREDIT CARD,KYC Update,closed,Medium,1.54,186.61,3
+TKT91322,2024-02-21 9:09:00,2024-02-29 16:12:36,AGT006,Arjun Singh,East,PERSONAL LOAN,Payment Failure,Escalated,Low,6.12,199.06,4
+TKT66657,2024-03-11 12:46:00,2024-03-12 12:36:24,AGT008,Vikram Nair,North,personal loan,EMI query,Closed,,16.21,23.84,5
+TKT88454,15/07/2024 08:09,16/07/2024 06:51,AGT008,Vikram Nair,North,PersonalLoan,,RESOLVED,High,7.45,22.71,4
+TKT53412,06/12/2024 12:07,07/12/2024 11:05,AGT001,Priya Sharma,North,Insurance,Payment Failure,Resolved,High,10.4,22.97,1
+TKT44698,06/03/2024 9:42,07/03/2024 12:01,AGT009,Pooja Reddy,East,Credit Card,policy renewal,Escalated,Medium,13.6,26.33,
+TKT92544,2024-12-22 14:31:00,2024-12-24 8:28:36,AGT010,Amit Joshi,South,personal loan,Payment Failure,Resolved,High,9.89,41.96,4
+TKT24926,2024-10-07 18:59:00,2024-10-08 14:02:36,AGT007,Neha Bose,East,credit card,Fraud Alert,Closed,Low,10.88,19.06,3
+TKT83997,09-08-2024 12:39,09-09-2024 20:22,AGT002,Rahul Verma,North,insurance,Policy Renewal,open,Medium,20.39,31.73,1
+TKT35644,2024-02-22 18:50:00,2024-02-24 14:18:12,AGT001,Priya Sharma,North,CREDIT CARD,Claim request,Resolved,Low,23.73,43.47,4
+TKT63558,2024-10-19 12:02:00,2024-10-20 11:35:00,AGT002,Rahul Verma,North,credit card,Policy Renewal,escalated,,12.79,23.55,3
+TKT40740,16/05/2024 08:01,23/05/2024 13:27,AGT004,Suresh Kumar,South,CreditCard,EMI Query,closed,Low,14.95,173.44,
+TKT67872,07-20-2024 14:46,07-26-2024 7:25,AGT005,Meena Pillai,South,Insurance,PAYMENT FAILURE,open,Medium,7.97,136.66,
+TKT63424,07-31-2024 8:13,08-01-2024 5:47,AGT006,Arjun Singh,East,PersonalLoan,Billing issue,escalated,Medium,20.07,21.58,4
+TKT96850,04-20-2024 10:38,04-21-2024 14:50,AGT001,Priya Sharma,North,PERSONAL LOAN,Policy Renewal,Open,Medium,13.47,28.2,2
+TKT67061,07/09/2024 20:14,09/09/2024 1:05,AGT009,Pooja Reddy,East,insurance,EMI Query,Escalated,Low,17.32,28.85,3
+TKT78448,2024-05-27 16:39:00,2024-05-29 1:16:48,AGT002,Rahul Verma,North,Insurance,Billing issue,Open,Medium,19.03,32.63,
+TKT48816,07-01-2024 14:01,07-04-2024 7:52,AGT001,Priya Sharma,North,Credit Card,Policy Renewal,Open,Low,11,65.86,2
+TKT90438,30/01/2024 18:49,01/02/2024 7:21,AGT003,Anita Das,South,Credit Card,Claim Request,Closed,High,11.73,36.54,2
+TKT14901,2024-11-11 12:11:00,2024-11-17 12:56:36,AGT006,Arjun Singh,East,CreditCard,Policy Renewal,Closed,Low,18.11,144.76,1
+TKT60209,08/09/2024 10:31,10/09/2024 7:12,AGT007,Neha Bose,East,INSURANCE,Policy Renewal,resolved,Medium,23.13,44.69,
+TKT29968,28/02/2024 11:01,29/02/2024 06:19,AGT004,Suresh Kumar,South,Credit Card,EMI Query,escalated,Low,8.2,19.31,3
+TKT97826,14/03/2024 19:56,16/03/2024 06:44,AGT001,Priya Sharma,North,,Policy Renewal,Open,Low,11.94,34.81,2
+TKT42065,28/02/2024 16:03,29/02/2024 09:10,AGT002,Rahul Verma,North,INSURANCE,Fraud Alert,Escalated,Low,6.88,17.12,5
+TKT28304,08-09-2024 11:39,08-10-2024 22:22,AGT009,Pooja Reddy,East,,Fraud Alert,escalated,,12.36,34.73,1
+TKT54658,10-29-2024 14:50,10-30-2024 19:15,AGT004,Suresh Kumar,South,Credit Card,Claim Request,CLOSED,Low,23.53,28.42,4
+TKT28035,01-12-2024 20:52,01-14-2024 9:50,AGT004,Suresh Kumar,South,Credit Card,BILLING ISSUE,Escalated,High,22.67,36.98,2
+TKT57951,01-15-2024 13:46,01-17-2024 0:36,AGT009,Pooja Reddy,East,PersonalLoan,EMI query,CLOSED,Low,6.78,34.84,4
+TKT73393,12/02/2024 16:21,14/02/2024 07:42,AGT007,Neha Bose,East,CreditCard,Claim Request,Open,,15.42,39.36,2
+TKT63144,07/04/2024 17:06,09/04/2024 3:17,AGT004,Suresh Kumar,South,credit card,Policy Renewal,Escalated,Low,11.31,34.19,1
+TKT93993,2024-05-07 10:45:00,2024-05-08 19:40:12,AGT010,,Sth,CREDIT CARD,Account Access,Open,Low,1.44,32.92,3
+TKT87376,03-19-2024 8:05,03-20-2024 5:44,AGT002,Rahul Verma,North,CREDIT CARD,Billing Issue,CLOSED,Low,11.32,21.66,1
+TKT37936,18/06/2024 20:47,09/07/2024 21:44,AGT004,Suresh Kumar,South,Credit Card,account access,escalated,High,9.33,504.95,3
+TKT46572,30/07/2024 19:05,01/08/2024 6:00,AGT008,Vikram Nair,North,Insurance,Fraud Alert,Resolved,Medium,23.04,34.93,
+TKT70284,04/10/2024 11:25,09/10/2024 1:41,AGT007,Neha Bose,East,PersonalLoan,Claim Request,CLOSED,Medium,3.44,110.27,5
